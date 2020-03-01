@@ -1,637 +1,635 @@
 state,university/college,campus,student_enrollment,total_law_enforcement__employees,total_officers,total_civilians
-ALABAMA,Alabama A & M University,Alabama A & M University main,5859.0,42.0,18.0,24.0
-ALABAMA,Alabama State University,Alabama State University main,5318.0,40.0,29.0,11.0
-ALABAMA,Auburn University,Auburn University Montgomery,4878.0,21.0,13.0,8.0
-ALABAMA,Jacksonville State University,Jacksonville State University main,8514.0,21.0,13.0,8.0
-ALABAMA,Lawson State Community College,Lawson State Community College main,3128.0,9.0,8.0,1.0
-ALABAMA,Tuskegee University,Tuskegee University main,2851.0,24.0,9.0,15.0
-ALABAMA,University of Alabama: ,University of Alabama:  Birmingham,19535.0,165.0,101.0,64.0
-ALABAMA,University of Alabama: ,University of Alabama:  Huntsville,8468.0,29.0,16.0,13.0
-ALABAMA,University of Alabama: ,University of Alabama:  Tuscaloosa,37663.0,106.0,86.0,20.0
-ALABAMA,University of South Alabama,University of South Alabama main,16443.0,38.0,33.0,5.0
-ALASKA,University of Alaska: ,University of Alaska:  Anchorage,16318.0,18.0,13.0,5.0
-ALASKA,University of Alaska: ,University of Alaska:  Fairbanks,8283.0,10.0,5.0,5.0
-ARIZONA,Arizona State University,Arizona State University Main Campus,97849.0,148.0,84.0,64.0
-ARIZONA,Arizona Western College,Arizona Western College main,7569.0,14.0,9.0,5.0
-ARIZONA,Central Arizona College,Central Arizona College main,5585.0,8.0,7.0,1.0
-ARIZONA,Northern Arizona University,Northern Arizona University main,30361.0,33.0,21.0,12.0
-ARIZONA,Pima Community College,Pima Community College main,24956.0,51.0,29.0,22.0
-ARIZONA,University of Arizona,University of Arizona main,43161.0,95.0,62.0,33.0
-ARIZONA,Yavapai College,Yavapai College main,7282.0,10.0,9.0,1.0
-ARKANSAS,Arkansas State University: ,Arkansas State University:  Beebe,3989.0,6.0,5.0,1.0
-ARKANSAS,Arkansas State University: ,Arkansas State University:  Jonesboro,14085.0,23.0,18.0,5.0
-ARKANSAS,Arkansas State University: ,Arkansas State University:  Newport,2735.0,2.0,2.0,0.0
-ARKANSAS,Arkansas Tech University,Arkansas Tech University main,11894.0,20.0,17.0,3.0
-ARKANSAS,Henderson State University,Henderson State University main,3551.0,9.0,8.0,1.0
-ARKANSAS,Southern Arkansas University,Southern Arkansas University main,4771.0,9.0,8.0,1.0
-ARKANSAS,Southern Arkansas University Tech,Southern Arkansas University Tech main,780.0,3.0,3.0,0.0
-ARKANSAS,University of Arkansas: ,University of Arkansas:  Fayetteville,27194.0,51.0,35.0,16.0
-ARKANSAS,University of Arkansas: ,University of Arkansas:  Little Rock,11746.0,39.0,26.0,13.0
-ARKANSAS,University of Arkansas: ,University of Arkansas:  Medical Sciences,2869.0,67.0,41.0,26.0
-ARKANSAS,University of Arkansas: ,University of Arkansas:  Monticello,3924.0,10.0,9.0,1.0
-ARKANSAS,University of Arkansas: ,University of Arkansas:  Pine Bluff,2821.0,19.0,13.0,6.0
-ARKANSAS,University of Arkansas Community College,University of Arkansas Community College Morrilton,2029.0,3.0,3.0,0.0
-ARKANSAS,University of Central Arkansas,University of Central Arkansas main,11487.0,36.0,26.0,10.0
-CALIFORNIA,Allan Hancock College,Allan Hancock College main,12012.0,9.0,4.0,5.0
-CALIFORNIA,California State Polytechnic University: ,California State Polytechnic University:  Pomona,25326.0,51.0,19.0,32.0
-CALIFORNIA,California State Polytechnic University: ,California State Polytechnic University:  San Luis Obispo,21306.0,36.0,20.0,16.0
-CALIFORNIA,California State University: ,California State University:  Bakersfield,9341.0,22.0,13.0,9.0
-CALIFORNIA,California State University: ,California State University:  Channel Islands,6611.0,28.0,14.0,14.0
-CALIFORNIA,California State University: ,California State University:  Chico,17557.0,24.0,15.0,9.0
-CALIFORNIA,California State University: ,California State University:  Dominguez Hills,14731.0,26.0,19.0,7.0
-CALIFORNIA,California State University: ,California State University:  East Bay,15855.0,30.0,15.0,15.0
-CALIFORNIA,California State University: ,California State University:  Fresno,24405.0,40.0,27.0,13.0
-CALIFORNIA,California State University: ,California State University:  Fullerton,40235.0,44.0,30.0,14.0
-CALIFORNIA,California State University: ,California State University:  Long Beach,37776.0,39.0,24.0,15.0
-CALIFORNIA,California State University: ,California State University:  Los Angeles,27827.0,36.0,21.0,15.0
-CALIFORNIA,California State University: ,California State University:  Monterey Bay,7274.0,26.0,14.0,12.0
-CALIFORNIA,California State University: ,California State University:  Northridge,39916.0,38.0,22.0,16.0
-CALIFORNIA,California State University: ,California State University:  Sacramento,30510.0,38.0,22.0,16.0
-CALIFORNIA,California State University: ,California State University:  San Bernardino,20767.0,29.0,18.0,11.0
-CALIFORNIA,California State University: ,California State University:  San Jose,32154.0,69.0,27.0,42.0
-CALIFORNIA,California State University: ,California State University:  San Marcos,13144.0,24.0,19.0,5.0
-CALIFORNIA,California State University: ,California State University:  Stanislaus,9762.0,20.0,12.0,8.0
-CALIFORNIA,College of the Sequoias,College of the Sequoias main,11959.0,7.0,6.0,1.0
-CALIFORNIA,Contra Costa Community College,Contra Costa Community College main,34487.0,32.0,21.0,11.0
-CALIFORNIA,Cuesta College,Cuesta College main,10232.0,12.0,7.0,5.0
-CALIFORNIA,El Camino College,El Camino College main,24033.0,31.0,22.0,9.0
-CALIFORNIA,Foothill-De Anza College,Foothill-De Anza College main,37085.0,22.0,13.0,9.0
-CALIFORNIA,Humboldt State University,Humboldt State University main,8503.0,20.0,12.0,8.0
-CALIFORNIA,Irvine Valley College,Irvine Valley College main,14147.0,14.0,9.0,5.0
-CALIFORNIA,Marin Community College,Marin Community College main,5621.0,8.0,6.0,2.0
-CALIFORNIA,Pasadena Community College,Pasadena Community College main,27165.0,13.0,9.0,4.0
-CALIFORNIA,Riverside Community College,Riverside Community College main,38677.0,27.0,20.0,7.0
-CALIFORNIA,San Bernardino Community College,San Bernardino Community College main,18657.0,20.0,7.0,13.0
-CALIFORNIA,San Diego State University,San Diego State University main,34688.0,49.0,26.0,23.0
-CALIFORNIA,San Francisco State University,San Francisco State University main,29045.0,51.0,27.0,24.0
-CALIFORNIA,San Jose/Evergreen Community College ,San Jose/Evergreen Community College  main,17213.0,17.0,7.0,10.0
-CALIFORNIA,Santa Rosa Junior College,Santa Rosa Junior College main,21217.0,26.0,13.0,13.0
-CALIFORNIA,Sonoma State University,Sonoma State University main,9323.0,16.0,12.0,4.0
-CALIFORNIA,State Center Community College District,State Center Community College District main,39661.0,22.0,18.0,4.0
-CALIFORNIA,University of California: ,University of California:  Berkeley,40154.0,123.0,57.0,66.0
-CALIFORNIA,University of California: ,University of California:  Davis,36460.0,70.0,45.0,25.0
-CALIFORNIA,University of California: ,University of California:  Irvine,32754.0,55.0,38.0,17.0
-CALIFORNIA,University of California: ,University of California:  Los Angeles,43548.0,91.0,56.0,35.0
-CALIFORNIA,University of California: ,University of California:  Merced,7336.0,25.0,14.0,11.0
-CALIFORNIA,University of California: ,University of California:  Riverside,22715.0,46.0,34.0,12.0
-CALIFORNIA,University of California: ,University of California:  San Diego,34979.0,73.0,38.0,35.0
-CALIFORNIA,University of California: ,University of California:  San Francisco,3145.0,141.0,50.0,91.0
-CALIFORNIA,University of California: ,University of California:  Santa Barbara,24346.0,58.0,39.0,19.0
-CALIFORNIA,University of California: ,University of California:  Santa Cruz,18783.0,31.0,20.0,11.0
-CALIFORNIA,Ventura County Community College District,Ventura County Community College District main,33976.0,15.0,14.0,1.0
-CALIFORNIA,West Valley-Mission College,West Valley-Mission College main,16131.0,13.0,9.0,4.0
-COLORADO,Adams State University,Adams State University main,3370.0,6.0,5.0,1.0
-COLORADO,Arapahoe Community College,Arapahoe Community College main,10261.0,10.0,8.0,2.0
-COLORADO,Auraria Higher Education Center2,Auraria Higher Education Center2 main,0.0,49.0,31.0,18.0
-COLORADO,Colorado School of Mines,Colorado School of Mines main,6069.0,12.0,11.0,1.0
-COLORADO,Colorado State University,Colorado State University Fort Collins,31856.0,49.0,35.0,14.0
-COLORADO,Fort Lewis College,Fort Lewis College main,3600.0,10.0,8.0,2.0
-COLORADO,Pikes Peak Community College,Pikes Peak Community College main,13154.0,20.0,18.0,2.0
-COLORADO,Red Rocks Community College,Red Rocks Community College main,7738.0,10.0,6.0,4.0
-COLORADO,University of Colorado:,University of Colorado: Boulder,33977.0,59.0,34.0,25.0
-COLORADO,University of Colorado:,University of Colorado: Colorado Springs,12559.0,30.0,18.0,12.0
-COLORADO,University of Colorado:,University of Colorado: Denver,23960.0,59.0,26.0,33.0
-COLORADO,University of Northern Colorado,University of Northern Colorado main,13087.0,23.0,15.0,8.0
-CONNECTICUT,Central Connecticut State University,Central Connecticut State University main,11784.0,25.0,18.0,7.0
-CONNECTICUT,Eastern Connecticut State University,Eastern Connecticut State University main,5362.0,22.0,14.0,8.0
-CONNECTICUT,Southern Connecticut State University,Southern Connecticut State University main,10320.0,29.0,23.0,6.0
-CONNECTICUT,University of Connecticut: ,University of Connecticut:  Health Center2,0.0,40.0,17.0,23.0
-CONNECTICUT,University of Connecticut: ,"University of Connecticut:  Storrs, Avery Point and Hartford2",0.0,97.0,77.0,20.0
-CONNECTICUT,Western Connecticut State University,Western Connecticut State University main,5721.0,18.0,12.0,6.0
-CONNECTICUT,Yale University,Yale University main,12458.0,106.0,89.0,17.0
-DELAWARE,Delaware State University,Delaware State University main,4328.0,39.0,15.0,24.0
-DELAWARE,University of Delaware,University of Delaware main,23009.0,75.0,50.0,25.0
-FLORIDA,Florida A&M University,Florida A&M University main,9619.0,33.0,28.0,5.0
-FLORIDA,Florida Atlantic University,Florida Atlantic University main,30541.0,64.0,36.0,28.0
-FLORIDA,Florida Gulf Coast University,Florida Gulf Coast University main,14821.0,25.0,18.0,7.0
-FLORIDA,Florida International University,Florida International University main,55003.0,94.0,61.0,33.0
-FLORIDA,Florida Polytechnic University2,Florida Polytechnic University2 main,0.0,12.0,9.0,3.0
-FLORIDA,Florida SouthWestern State College,Florida SouthWestern State College main,16627.0,23.0,10.0,13.0
-FLORIDA,New College of Florida,New College of Florida main,875.0,19.0,13.0,6.0
-FLORIDA,Pensacola State College,Pensacola State College main,9643.0,12.0,10.0,2.0
-FLORIDA,Santa Fe College,Santa Fe College main,15404.0,23.0,17.0,6.0
-FLORIDA,Tallahassee Community College,Tallahassee Community College main,12200.0,26.0,12.0,14.0
-FLORIDA,University of Central Florida,University of Central Florida main,64088.0,120.0,73.0,47.0
-FLORIDA,University of Florida,University of Florida main,52367.0,130.0,80.0,50.0
-FLORIDA,University of North Florida,University of North Florida main,15762.0,38.0,30.0,8.0
-FLORIDA,University of South Florida: ,University of South Florida:  St. Petersburg,4702.0,21.0,15.0,6.0
-FLORIDA,University of South Florida: ,University of South Florida:  Tampa,42861.0,68.0,48.0,20.0
-FLORIDA,University of West Florida,University of West Florida main,12966.0,30.0,21.0,9.0
-GEORGIA,Abraham Baldwin Agricultural College,Abraham Baldwin Agricultural College main,3475.0,15.0,13.0,2.0
-GEORGIA,Agnes Scott College,Agnes Scott College main,927.0,15.0,8.0,7.0
-GEORGIA,Albany State University,Albany State University main,3041.0,39.0,35.0,4.0
-GEORGIA,Albany Technical College,Albany Technical College main,3251.0,3.0,3.0,0.0
-GEORGIA,Andrew College,Andrew College main,276.0,2.0,2.0,0.0
-GEORGIA,Armstrong State University,Armstrong State University main,7157.0,23.0,18.0,5.0
-GEORGIA,Athens Technical College,Athens Technical College main,4210.0,2.0,2.0,0.0
-GEORGIA,Augusta Technical College,Augusta Technical College main,4370.0,6.0,6.0,0.0
-GEORGIA,Augusta University,Augusta University main,7938.0,58.0,43.0,15.0
-GEORGIA,Bainbridge State College,Bainbridge State College main,2468.0,8.0,5.0,3.0
-GEORGIA,Berry College,Berry College main,2174.0,17.0,12.0,5.0
-GEORGIA,Chattahoochee Technical College,Chattahoochee Technical College main,9999.0,14.0,11.0,3.0
-GEORGIA,College of Coastal Georgia,College of Coastal Georgia main,3529.0,14.0,14.0,0.0
-GEORGIA,Columbus State University,Columbus State University main,8407.0,39.0,29.0,10.0
-GEORGIA,Dalton State College,Dalton State College main,5188.0,16.0,13.0,3.0
-GEORGIA,East Georgia College,East Georgia College main,3152.0,10.0,9.0,1.0
-GEORGIA,Emory University,Emory University main,14067.0,67.0,50.0,17.0
-GEORGIA,Fort Valley State University,Fort Valley State University main,2679.0,34.0,14.0,20.0
-GEORGIA,Georgia College and State University,Georgia College and State University main,6915.0,22.0,16.0,6.0
-GEORGIA,Georgia Gwinnett College,Georgia Gwinnett College main,12052.0,28.0,23.0,5.0
-GEORGIA,Georgia Institute of Technology,Georgia Institute of Technology main,26839.0,104.0,74.0,30.0
-GEORGIA,Georgia Military College,Georgia Military College main,8234.0,5.0,3.0,2.0
-GEORGIA,Georgia Southern University,Georgia Southern University main,20673.0,70.0,54.0,16.0
-GEORGIA,Georgia Southwestern State University,Georgia Southwestern State University main,2954.0,12.0,12.0,0.0
-GEORGIA,Georgia State University,Georgia State University main,32237.0,268.0,126.0,142.0
-GEORGIA,Gordon State College,Gordon State College main,3901.0,13.0,12.0,1.0
-GEORGIA,Kennesaw State University,Kennesaw State University main,35018.0,100.0,59.0,41.0
-GEORGIA,Mercer University,Mercer University main,8615.0,30.0,22.0,8.0
-GEORGIA,Middle Georgia State University,Middle Georgia State University main,7714.0,29.0,26.0,3.0
-GEORGIA,Morehouse College,Morehouse College main,2108.0,23.0,8.0,15.0
-GEORGIA,Savannah Technical College,Savannah Technical College main,3938.0,11.0,10.0,1.0
-GEORGIA,Southern Crescent Technical College,Southern Crescent Technical College main,4703.0,5.0,5.0,0.0
-GEORGIA,South Georgia State College,South Georgia State College main,2542.0,11.0,7.0,4.0
-GEORGIA,Spelman College,Spelman College main,2125.0,24.0,15.0,9.0
-GEORGIA,University of Georgia,University of Georgia main,36574.0,104.0,82.0,22.0
-GEORGIA,University of North Georgia,University of North Georgia main,18219.0,44.0,35.0,9.0
-GEORGIA,University of West Georgia,University of West Georgia main,13308.0,42.0,32.0,10.0
-GEORGIA,Valdosta State University,Valdosta State University main,11375.0,33.0,25.0,8.0
-GEORGIA,Wesleyan College,Wesleyan College main,676.0,5.0,5.0,0.0
-GEORGIA,West Georgia Technical College,West Georgia Technical College main,6743.0,7.0,7.0,0.0
-GEORGIA,Young Harris College,Young Harris College main,1200.0,4.0,4.0,0.0
-ILLINOIS,Chicago State University,Chicago State University main,3578.0,26.0,24.0,2.0
-ILLINOIS,Elgin Community College,Elgin Community College main,9918.0,18.0,16.0,2.0
-ILLINOIS,Illinois Central College,Illinois Central College main,9290.0,19.0,7.0,12.0
-ILLINOIS,Illinois State University,Illinois State University main,21039.0,39.0,29.0,10.0
-ILLINOIS,John Wood Community College,John Wood Community College main,1968.0,5.0,4.0,1.0
-ILLINOIS,Joliet Junior College,Joliet Junior College main,15383.0,24.0,15.0,9.0
-ILLINOIS,Lewis University,Lewis University main,6544.0,17.0,8.0,9.0
-ILLINOIS,Lincoln Land Community College,Lincoln Land Community College main,5744.0,15.0,13.0,2.0
-ILLINOIS,Millikin University,Millikin University main,2055.0,17.0,5.0,12.0
-ILLINOIS,Parkland College,Parkland College main,7569.0,15.0,12.0,3.0
-ILLINOIS,Rend Lake College,Rend Lake College main,2489.0,3.0,3.0,0.0
-ILLINOIS,Southern Illinois University:,Southern Illinois University: Carbondale,15987.0,54.0,37.0,17.0
-ILLINOIS,Southern Illinois University:,Southern Illinois University: Edwardsville,14142.0,49.0,39.0,10.0
-ILLINOIS,Southern Illinois University:,Southern Illinois University: School of Medicine2,0.0,6.0,6.0,0.0
-ILLINOIS,University of Illinois:,University of Illinois: Springfield,5428.0,22.0,15.0,7.0
-ILLINOIS,University of Illinois:,University of Illinois: Urbana ,46951.0,96.0,60.0,36.0
-IOWA,Iowa State University,Iowa State University main,36350.0,47.0,35.0,12.0
-IOWA,University of Iowa,University of Iowa main,32011.0,60.0,38.0,22.0
-IOWA,University of Northern Iowa,University of Northern Iowa main,11905.0,20.0,17.0,3.0
-KANSAS,Butler Community College,Butler Community College main,9190.0,7.0,6.0,1.0
-KANSAS,Emporia State University,Emporia State University main,5887.0,10.0,10.0,0.0
-KANSAS,Fort Hays State University,Fort Hays State University main,14658.0,11.0,9.0,2.0
-KANSAS,Garden City Community College,Garden City Community College main,2053.0,1.0,1.0,0.0
-KANSAS,Kansas City Kansas Community College,Kansas City Kansas Community College main,5726.0,16.0,15.0,1.0
-KANSAS,Kansas State University,Kansas State University main,23779.0,42.0,23.0,19.0
-KANSAS,Pittsburg State University,Pittsburg State University main,7102.0,16.0,13.0,3.0
-KANSAS,University of Kansas,University of Kansas Main Campus,27565.0,75.0,31.0,44.0
-KANSAS,Washburn University,Washburn University main,6636.0,22.0,16.0,6.0
-KANSAS,Wichita State University,Wichita State University main,14166.0,40.0,26.0,14.0
-KENTUCKY,Eastern Kentucky University,Eastern Kentucky University main,16881.0,31.0,24.0,7.0
-KENTUCKY,Kentucky State University,Kentucky State University main,1736.0,13.0,7.0,6.0
-KENTUCKY,Morehead State University,Morehead State University main,10746.0,27.0,16.0,11.0
-KENTUCKY,Murray State University,Murray State University main,10486.0,16.0,16.0,0.0
-KENTUCKY,Northern Kentucky University,Northern Kentucky University main,14542.0,20.0,15.0,5.0
-KENTUCKY,Transylvania University,Transylvania University main,963.0,11.0,9.0,2.0
-KENTUCKY,University of Kentucky,University of Kentucky main,29781.0,161.0,55.0,106.0
-KENTUCKY,University of Louisville,University of Louisville main,21578.0,57.0,44.0,13.0
-KENTUCKY,Western Kentucky University,Western Kentucky University main,20271.0,30.0,21.0,9.0
-LOUISIANA,Delgado Community College,Delgado Community College main,15110.0,38.0,26.0,12.0
-LOUISIANA,Dillard University,Dillard University main,1261.0,21.0,13.0,8.0
-LOUISIANA,Grambling State University,Grambling State University main,4863.0,23.0,10.0,13.0
-LOUISIANA,Louisiana State University: ,Louisiana State University:  Baton Rouge,31409.0,75.0,58.0,17.0
-LOUISIANA,Louisiana State University: ,"Louisiana State University:  Health Sciences Center, New Orleans",2758.0,28.0,28.0,0.0
-LOUISIANA,Louisiana State University: ,"Louisiana State University:  Health Sciences Center, Shreveport",874.0,46.0,32.0,14.0
-LOUISIANA,Louisiana State University: ,Louisiana State University:  Shreveport,4746.0,8.0,7.0,1.0
-LOUISIANA,Louisiana Tech University,Louisiana Tech University main,12672.0,19.0,17.0,2.0
-LOUISIANA,McNeese State University,McNeese State University main,7621.0,16.0,10.0,6.0
-LOUISIANA,Nicholls State University,Nicholls State University main,6255.0,11.0,10.0,1.0
-LOUISIANA,Northwestern State University,Northwestern State University main,9819.0,30.0,24.0,6.0
-LOUISIANA,Southeastern Louisiana University,Southeastern Louisiana University main,14483.0,26.0,21.0,5.0
-LOUISIANA,Southern University and A&M College: ,Southern University and A&M College:  Baton Rouge,5877.0,39.0,21.0,18.0
-LOUISIANA,Southern University and A&M College: ,Southern University and A&M College:  New Orleans,2430.0,20.0,17.0,3.0
-LOUISIANA,Southern University and A&M College: ,Southern University and A&M College:  Shreveport,3240.0,6.0,5.0,1.0
-LOUISIANA,Tulane University,Tulane University main,12581.0,99.0,81.0,18.0
-LOUISIANA,University of Louisiana:,University of Louisiana: Lafayette,17519.0,36.0,32.0,4.0
-LOUISIANA,University of Louisiana:,University of Louisiana: Monroe,9038.0,24.0,23.0,1.0
-LOUISIANA,University of New Orleans,University of New Orleans main,8037.0,21.0,18.0,3.0
-MAINE,University of Maine: ,University of Maine:  Farmington,2000.0,5.0,4.0,1.0
-MAINE,University of Maine: ,University of Maine:  Orono,11219.0,26.0,18.0,8.0
-MAINE,University of Southern Maine,University of Southern Maine main,7855.0,18.0,10.0,8.0
-MARYLAND,Bowie State University,Bowie State University main,5669.0,28.0,14.0,14.0
-MARYLAND,Coppin State University,Coppin State University main,2939.0,35.0,23.0,12.0
-MARYLAND,Frostburg State University,Frostburg State University main,5676.0,25.0,18.0,7.0
-MARYLAND,Hagerstown Community College,Hagerstown Community College main,4061.0,2.0,2.0,0.0
-MARYLAND,Morgan State University,Morgan State University main,7689.0,56.0,35.0,21.0
-MARYLAND,Prince George's County Community College,Prince George's County Community College main,12417.0,18.0,12.0,6.0
-MARYLAND,Salisbury University,Salisbury University main,8748.0,31.0,16.0,15.0
-MARYLAND,St. Mary's College,St. Mary's College main,1629.0,12.0,4.0,8.0
-MARYLAND,Towson University,Towson University main,22343.0,52.0,39.0,13.0
-MARYLAND,University of Baltimore,University of Baltimore main,5983.0,29.0,18.0,11.0
-MARYLAND,University of Maryland: ,University of Maryland:  Baltimore City,6482.0,140.0,56.0,84.0
-MARYLAND,University of Maryland: ,University of Maryland:  Baltimore County,13640.0,37.0,26.0,11.0
-MARYLAND,University of Maryland: ,University of Maryland:  College Park,39083.0,131.0,86.0,45.0
-MARYLAND,University of Maryland: ,University of Maryland:  Eastern Shore,3904.0,16.0,12.0,4.0
-MASSACHUSETTS,Amherst College,Amherst College main,1849.0,19.0,14.0,5.0
-MASSACHUSETTS,Assumption College,Assumption College main,2607.0,20.0,15.0,5.0
-MASSACHUSETTS,Babson College,Babson College main,3165.0,29.0,19.0,10.0
-MASSACHUSETTS,Becker College,Becker College main,2189.0,18.0,12.0,6.0
-MASSACHUSETTS,Bentley University,Bentley University main,5506.0,31.0,21.0,10.0
-MASSACHUSETTS,Boston College,Boston College main,14466.0,69.0,48.0,21.0
-MASSACHUSETTS,Boston University,Boston University main,32695.0,67.0,51.0,16.0
-MASSACHUSETTS,Brandeis University,Brandeis University main,5729.0,23.0,21.0,2.0
-MASSACHUSETTS,Bridgewater State University,Bridgewater State University main,10998.0,25.0,22.0,3.0
-MASSACHUSETTS,Bristol Community College,Bristol Community College main,8476.0,8.0,7.0,1.0
-MASSACHUSETTS,Bunker Hill Community College,Bunker Hill Community College main,13253.0,16.0,15.0,1.0
-MASSACHUSETTS,Clark University,Clark University main,3298.0,14.0,10.0,4.0
-MASSACHUSETTS,College of the Holy Cross,College of the Holy Cross main,2720.0,23.0,17.0,6.0
-MASSACHUSETTS,Dean College,Dean College main,1339.0,16.0,1.0,15.0
-MASSACHUSETTS,Emerson College,Emerson College main,4442.0,16.0,13.0,3.0
-MASSACHUSETTS,Fitchburg State University,Fitchburg State University main,6763.0,25.0,20.0,5.0
-MASSACHUSETTS,Framingham State University,Framingham State University main,5977.0,18.0,15.0,3.0
-MASSACHUSETTS,Gordon College,Gordon College main,2004.0,7.0,7.0,0.0
-MASSACHUSETTS,Harvard University,Harvard University main,29908.0,98.0,74.0,24.0
-MASSACHUSETTS,Holyoke Community College,Holyoke Community College main,5890.0,14.0,14.0,0.0
-MASSACHUSETTS,Massachusetts Bay Community College,Massachusetts Bay Community College main,4855.0,8.0,8.0,0.0
-MASSACHUSETTS,Massachusetts College of Art,Massachusetts College of Art main,1982.0,29.0,10.0,19.0
-MASSACHUSETTS,Massachusetts College of Liberal Arts,Massachusetts College of Liberal Arts main,1644.0,13.0,9.0,4.0
-MASSACHUSETTS,Massachusetts Institute of Technology,Massachusetts Institute of Technology main,11376.0,65.0,58.0,7.0
-MASSACHUSETTS,Massasoit Community College,Massasoit Community College main,7471.0,19.0,18.0,1.0
-MASSACHUSETTS,Merrimack College,Merrimack College main,4014.0,18.0,15.0,3.0
-MASSACHUSETTS,Mount Holyoke College,Mount Holyoke College main,2327.0,60.0,47.0,13.0
-MASSACHUSETTS,Mount Wachusett Community College,Mount Wachusett Community College main,3961.0,11.0,10.0,1.0
-MASSACHUSETTS,Northeastern University,Northeastern University main,20381.0,98.0,63.0,35.0
-MASSACHUSETTS,North Shore Community College,North Shore Community College main,6315.0,24.0,19.0,5.0
-MASSACHUSETTS,Quinsigamond Community College,Quinsigamond Community College main,7696.0,15.0,12.0,3.0
-MASSACHUSETTS,Salem State University,Salem State University main,9001.0,27.0,22.0,5.0
-MASSACHUSETTS,Springfield College,Springfield College main,3144.0,47.0,18.0,29.0
-MASSACHUSETTS,Springfield Technical Community College,Springfield Technical Community College main,5622.0,18.0,15.0,3.0
-MASSACHUSETTS,Stonehill College,Stonehill College main,2481.0,21.0,15.0,6.0
-MASSACHUSETTS,Tufts University,Tufts University Medford,11489.0,89.0,48.0,41.0
-MASSACHUSETTS,University of Massachusetts: ,University of Massachusetts:  Amherst,30037.0,78.0,62.0,16.0
-MASSACHUSETTS,University of Massachusetts: ,University of Massachusetts:  Dartmouth,8647.0,37.0,26.0,11.0
-MASSACHUSETTS,University of Massachusetts: ,"University of Massachusetts:  Medical Center, Worcester",1108.0,26.0,20.0,6.0
-MASSACHUSETTS,Wellesley College,Wellesley College main,2482.0,17.0,13.0,4.0
-MASSACHUSETTS,Wentworth Institute of Technology,Wentworth Institute of Technology main,4526.0,23.0,16.0,7.0
-MASSACHUSETTS,Western New England University,Western New England University main,3810.0,27.0,15.0,12.0
-MASSACHUSETTS,Westfield State University,Westfield State University main,6335.0,23.0,17.0,6.0
-MASSACHUSETTS,Wheaton College,Wheaton College main,1651.0,17.0,14.0,3.0
-MASSACHUSETTS,Worcester Polytechnic Institute,Worcester Polytechnic Institute main,6642.0,22.0,17.0,5.0
-MASSACHUSETTS,Worcester State University,Worcester State University main,6471.0,22.0,16.0,6.0
-MICHIGAN,Central Michigan University,Central Michigan University main,25986.0,36.0,23.0,13.0
-MICHIGAN,Delta College,Delta College main,9132.0,8.0,5.0,3.0
-MICHIGAN,Eastern Michigan University,Eastern Michigan University main,21246.0,49.0,38.0,11.0
-MICHIGAN,Ferris State University,Ferris State University main,14187.0,17.0,13.0,4.0
-MICHIGAN,Grand Rapids Community College,Grand Rapids Community College main,14464.0,16.0,12.0,4.0
-MICHIGAN,Grand Valley State University,Grand Valley State University main,25460.0,22.0,18.0,4.0
-MICHIGAN,Kalamazoo Valley Community College,Kalamazoo Valley Community College main,8549.0,8.0,6.0,2.0
-MICHIGAN,Kellogg Community College,Kellogg Community College main,4815.0,3.0,3.0,0.0
-MICHIGAN,Kirtland Community College,Kirtland Community College main,1529.0,1.0,1.0,0.0
-MICHIGAN,Lansing Community College,Lansing Community College main,13583.0,15.0,10.0,5.0
-MICHIGAN,Macomb Community College,Macomb Community College main,21734.0,26.0,22.0,4.0
-MICHIGAN,Michigan State University,Michigan State University main,50340.0,118.0,87.0,31.0
-MICHIGAN,Northern Michigan University,Northern Michigan University main,7865.0,24.0,21.0,3.0
-MICHIGAN,Oakland Community College,Oakland Community College main,18923.0,23.0,22.0,1.0
-MICHIGAN,Oakland University,Oakland University main,20012.0,28.0,21.0,7.0
-MICHIGAN,Saginaw Valley State University,Saginaw Valley State University main,9105.0,9.0,8.0,1.0
-MICHIGAN,Schoolcraft College,Schoolcraft College main,11339.0,15.0,11.0,4.0
-MICHIGAN,University of Michigan: ,University of Michigan:  Ann Arbor,44718.0,31.0,19.0,12.0
-MICHIGAN,University of Michigan: ,University of Michigan:  Dearborn,9131.0,27.0,13.0,14.0
-MICHIGAN,University of Michigan: ,University of Michigan:  Flint,8044.0,31.0,19.0,12.0
-MICHIGAN,Western Michigan University,Western Michigan University main,23227.0,39.0,32.0,7.0
-MINNESOTA,University of Minnesota:,University of Minnesota: Duluth,11018.0,11.0,9.0,2.0
-MINNESOTA,University of Minnesota:,University of Minnesota: Morris,1771.0,5.0,3.0,2.0
-MINNESOTA,University of Minnesota:,University of Minnesota: Twin Cities,51579.0,65.0,53.0,12.0
-MISSISSIPPI,Coahoma Community College,Coahoma Community College main,2064.0,10.0,9.0,1.0
-MISSISSIPPI,Jackson State University,Jackson State University main,9811.0,63.0,33.0,30.0
-MISSISSIPPI,Mississippi State University,Mississippi State University main,21622.0,44.0,31.0,13.0
-MISSISSIPPI,Northeast Mississippi Community College,Northeast Mississippi Community College main,3521.0,7.0,7.0,0.0
-MISSISSIPPI,University of Mississippi,University of Mississippi Medical Center2,0.0,104.0,61.0,43.0
-MISSOURI,Jefferson College,Jefferson College main,4692.0,8.0,8.0,0.0
-MISSOURI,Lincoln University,Lincoln University main,2738.0,16.0,14.0,2.0
-MISSOURI,Metropolitan Community College,Metropolitan Community College main,15790.0,36.0,28.0,8.0
-MISSOURI,Mineral Area College,Mineral Area College main,4173.0,3.0,3.0,0.0
-MISSOURI,Missouri Southern State University,Missouri Southern State University main,6231.0,8.0,7.0,1.0
-MISSOURI,Missouri Western State University,Missouri Western State University main,5363.0,9.0,8.0,1.0
-MISSOURI,Northwest Missouri State University,Northwest Missouri State University main,6530.0,13.0,10.0,3.0
-MISSOURI,Southeast Missouri State University,Southeast Missouri State University main,11978.0,17.0,16.0,1.0
-MISSOURI,St. Charles Community College,St. Charles Community College main,6755.0,14.0,12.0,2.0
-MISSOURI,St. Louis Community College ,St. Louis Community College  Meramec,19052.0,30.0,24.0,6.0
-MISSOURI,Truman State University,Truman State University main,6379.0,10.0,8.0,2.0
-MISSOURI,University of Central Missouri,University of Central Missouri main,13988.0,33.0,19.0,14.0
-MISSOURI,University of Missouri: ,University of Missouri:  Columbia,33239.0,63.0,42.0,21.0
-MISSOURI,University of Missouri: ,University of Missouri:  Kansas City,16936.0,39.0,28.0,11.0
-MISSOURI,University of Missouri: ,University of Missouri:  St. Louis,16989.0,26.0,20.0,6.0
-MISSOURI,Washington University,Washington University main,15047.0,57.0,37.0,20.0
-MONTANA,Montana State University,Montana State University main,16359.0,35.0,18.0,17.0
-MONTANA,University of Montana,University of Montana main,12419.0,24.0,14.0,10.0
-NEBRASKA,University of Nebraska:,University of Nebraska: Kearney,6788.0,9.0,7.0,2.0
-NEBRASKA,University of Nebraska:,University of Nebraska: Lincoln,25897.0,60.0,32.0,28.0
-NEVADA,College of Southern Nevada,College of Southern Nevada main,33556.0,18.0,17.0,1.0
-NEVADA,University of Nevada:,University of Nevada: Las Vegas,29702.0,57.0,41.0,16.0
-NEVADA,University of Nevada:,University of Nevada: Reno,21353.0,40.0,31.0,9.0
-NEW HAMPSHIRE,University of New Hampshire,University of New Hampshire main,15188.0,35.0,19.0,16.0
-NEW JERSEY,Brookdale Community College,Brookdale Community College main,13165.0,12.0,12.0,0.0
-NEW JERSEY,Essex County College,Essex County College main,9596.0,56.0,11.0,45.0
-NEW JERSEY,Kean University,Kean University main,14070.0,38.0,19.0,19.0
-NEW JERSEY,Middlesex County College,Middlesex County College main,11371.0,17.0,12.0,5.0
-NEW JERSEY,Monmouth University,Monmouth University main,6371.0,49.0,19.0,30.0
-NEW JERSEY,Montclair State University,Montclair State University main,20987.0,47.0,33.0,14.0
-NEW JERSEY,New Jersey Institute of Technology,New Jersey Institute of Technology main,11317.0,68.0,33.0,35.0
-NEW JERSEY,Princeton University,Princeton University main,8181.0,102.0,33.0,69.0
-NEW JERSEY,Rowan University,Rowan University main,17372.0,89.0,31.0,58.0
-NEW JERSEY,Rutgers University: ,Rutgers University:  Camden,6475.0,82.0,19.0,63.0
-NEW JERSEY,Rutgers University: ,Rutgers University:  Newark,12321.0,190.0,63.0,127.0
-NEW JERSEY,Rutgers University: ,Rutgers University:  New Brunswick,50146.0,141.0,70.0,71.0
-NEW JERSEY,Stevens Institute of Technology,Stevens Institute of Technology main,6617.0,22.0,20.0,2.0
-NEW JERSEY,Stockton University,Stockton University main,8728.0,28.0,18.0,10.0
-NEW JERSEY,The College of New Jersey,The College of New Jersey main,7396.0,30.0,17.0,13.0
-NEW JERSEY,William Paterson University,William Paterson University main,10583.0,45.0,32.0,13.0
-NEW MEXICO,Eastern New Mexico University,Eastern New Mexico University main,6010.0,7.0,6.0,1.0
-NEW MEXICO,New Mexico Military Institute,New Mexico Military Institute main,422.0,5.0,5.0,0.0
-NEW MEXICO,New Mexico State University,New Mexico State University main,14852.0,32.0,17.0,15.0
-NEW MEXICO,University of New Mexico,University of New Mexico main,26999.0,55.0,38.0,17.0
-NEW YORK,Cornell University,Cornell University main,22319.0,72.0,46.0,26.0
-NEW YORK,Ithaca College,Ithaca College main,6678.0,41.0,23.0,18.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Albany,17373.0,59.0,37.0,22.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Alfred,3735.0,16.0,11.0,5.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Binghamton,17292.0,54.0,39.0,15.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Brockport,8243.0,18.0,16.0,2.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Buffalo,30184.0,70.0,57.0,13.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Buffalo State College,9475.0,36.0,32.0,4.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Canton,3205.0,11.0,10.0,1.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Cobleskill,2287.0,12.0,11.0,1.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Cortland,6900.0,24.0,18.0,6.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Delhi,3511.0,13.0,9.0,4.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Downstate Medical ,1839.0,110.0,26.0,84.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Environmental Science ,2186.0,13.0,9.0,4.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Farmingdale,9235.0,30.0,21.0,9.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Fredonia,4603.0,16.0,15.0,1.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Geneseo,5602.0,23.0,15.0,8.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Morrisville,3003.0,15.0,12.0,3.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  New Paltz,7628.0,27.0,23.0,4.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Oneonta,6055.0,27.0,17.0,10.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Optometry,401.0,16.0,6.0,10.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Oswego,8004.0,25.0,22.0,3.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Plattsburgh,5520.0,22.0,18.0,4.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Polytechnic Institute,2697.0,16.0,11.0,5.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Potsdam,3696.0,14.0,12.0,2.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Stony Brook,25734.0,143.0,65.0,78.0
-NEW YORK,State University of New York Police: ,State University of New York Police:  Upstate Medical ,1491.0,112.0,20.0,92.0
-NORTH CAROLINA,Appalachian State University,Appalachian State University main,18295.0,44.0,27.0,17.0
-NORTH CAROLINA,Beaufort County Community College,Beaufort County Community College main,1522.0,2.0,2.0,0.0
-NORTH CAROLINA,Belmont Abbey College,Belmont Abbey College main,1523.0,2.0,2.0,0.0
-NORTH CAROLINA,Davidson College,Davidson College main,1796.0,10.0,9.0,1.0
-NORTH CAROLINA,Duke University,Duke University main,15735.0,157.0,64.0,93.0
-NORTH CAROLINA,East Carolina University,East Carolina University main,28962.0,71.0,55.0,16.0
-NORTH CAROLINA,Elizabeth City State University,Elizabeth City State University main,1357.0,21.0,11.0,10.0
-NORTH CAROLINA,Elon University,Elon University main,6739.0,39.0,19.0,20.0
-NORTH CAROLINA,Fayetteville State University,Fayetteville State University main,6223.0,36.0,19.0,17.0
-NORTH CAROLINA,Meredith College,Meredith College main,1981.0,13.0,3.0,10.0
-NORTH CAROLINA,Methodist University,Methodist University main,2446.0,25.0,10.0,15.0
-NORTH CAROLINA,North Carolina Agricultural and Technical State University,North Carolina Agricultural and Technical State University main,11177.0,52.0,21.0,31.0
-NORTH CAROLINA,North Carolina Central University,North Carolina Central University main,8094.0,53.0,25.0,28.0
-NORTH CAROLINA,North Carolina School of the Arts,North Carolina School of the Arts main,1040.0,22.0,15.0,7.0
-NORTH CAROLINA,North Carolina State University,North Carolina State University Raleigh,33755.0,63.0,47.0,16.0
-NORTH CAROLINA,Queens University,Queens University main,2330.0,13.0,9.0,4.0
-NORTH CAROLINA,Saint Augustine's University,Saint Augustine's University main,944.0,19.0,2.0,17.0
-NORTH CAROLINA,University of North Carolina:,University of North Carolina: Asheville,3821.0,21.0,14.0,7.0
-NORTH CAROLINA,University of North Carolina:,University of North Carolina: Chapel Hill,29468.0,109.0,56.0,53.0
-NORTH CAROLINA,University of North Carolina:,University of North Carolina: Charlotte,28721.0,55.0,45.0,10.0
-NORTH CAROLINA,University of North Carolina:,University of North Carolina: Greensboro,19647.0,54.0,31.0,23.0
-NORTH CAROLINA,University of North Carolina:,University of North Carolina: Pembroke,6268.0,26.0,18.0,8.0
-NORTH CAROLINA,University of North Carolina:,University of North Carolina: Wilmington,15740.0,45.0,30.0,15.0
-NORTH CAROLINA,Wake Forest University,Wake Forest University main,7968.0,48.0,22.0,26.0
-NORTH CAROLINA,Western Carolina University,Western Carolina University main,10805.0,24.0,23.0,1.0
-NORTH CAROLINA,Winston-Salem State University,Winston-Salem State University main,5151.0,22.0,16.0,6.0
-NORTH DAKOTA,Bismarck State College,Bismarck State College main,3976.0,2.0,2.0,0.0
-NORTH DAKOTA,North Dakota State College of Science,North Dakota State College of Science main,3003.0,4.0,3.0,1.0
-NORTH DAKOTA,North Dakota State University,North Dakota State University main,14432.0,24.0,15.0,9.0
-NORTH DAKOTA,University of North Dakota,University of North Dakota main,14648.0,17.0,16.0,1.0
-OHIO,Capital University,Capital University main,3367.0,16.0,10.0,6.0
-OHIO,Lakeland Community College,Lakeland Community College main,7997.0,15.0,11.0,4.0
-OHIO,Miami University,Miami University main,19697.0,37.0,28.0,9.0
-OHIO,Mount St. Joseph University,Mount St. Joseph University main,2045.0,7.0,5.0,2.0
-OHIO,Muskingum University,Muskingum University main,2121.0,5.0,5.0,0.0
-OHIO,Notre Dame College,Notre Dame College main,1985.0,9.0,8.0,1.0
-OHIO,Ohio State University,Ohio State University Columbus,59482.0,60.0,52.0,8.0
-OHIO,Ohio University,Ohio University main,29509.0,37.0,30.0,7.0
-OHIO,Otterbein University,Otterbein University main,2928.0,10.0,9.0,1.0
-OHIO,Sinclair Community College,Sinclair Community College main,18610.0,23.0,19.0,4.0
-OHIO,University of Akron,University of Akron main,21100.0,42.0,36.0,6.0
-OHIO,University of Toledo,University of Toledo main,20615.0,39.0,32.0,7.0
-OKLAHOMA,Cameron University,Cameron University main,4846.0,12.0,12.0,0.0
-OKLAHOMA,East Central University,East Central University main,4160.0,6.0,5.0,1.0
-OKLAHOMA,Eastern Oklahoma State College,Eastern Oklahoma State College main,1641.0,3.0,3.0,0.0
-OKLAHOMA,Langston University,Langston University main,2420.0,17.0,12.0,5.0
-OKLAHOMA,Mid-America Christian University,Mid-America Christian University main,2405.0,4.0,4.0,0.0
-OKLAHOMA,Northeastern Oklahoma A&M College,Northeastern Oklahoma A&M College main,2077.0,6.0,6.0,0.0
-OKLAHOMA,Northeastern State University,Northeastern State University Tahlequah,8109.0,19.0,15.0,4.0
-OKLAHOMA,Northwestern Oklahoma State University,Northwestern Oklahoma State University main,2218.0,4.0,4.0,0.0
-OKLAHOMA,Oklahoma City Community College,Oklahoma City Community College main,12557.0,33.0,21.0,12.0
-OKLAHOMA,Oklahoma City University,Oklahoma City University main,2968.0,12.0,8.0,4.0
-OKLAHOMA,Oklahoma State University:,Oklahoma State University: Main Campus,25622.0,43.0,33.0,10.0
-OKLAHOMA,Oklahoma State University:,Oklahoma State University: Okmulgee,2396.0,8.0,7.0,1.0
-OKLAHOMA,Oklahoma State University:,Oklahoma State University: Tulsa,926.0,8.0,6.0,2.0
-OKLAHOMA,Rogers State University,Rogers State University main,3903.0,9.0,9.0,0.0
-OKLAHOMA,Seminole State College,Seminole State College main,1729.0,2.0,2.0,0.0
-OKLAHOMA,Southeastern Oklahoma State University,Southeastern Oklahoma State University main,3725.0,4.0,3.0,1.0
-OKLAHOMA,Southwestern Oklahoma State University,Southwestern Oklahoma State University main,5320.0,7.0,6.0,1.0
-OKLAHOMA,Tulsa Community College,Tulsa Community College main,17135.0,33.0,27.0,6.0
-OKLAHOMA,University of Central Oklahoma,University of Central Oklahoma main,16428.0,22.0,15.0,7.0
-OKLAHOMA,University of Oklahoma: ,University of Oklahoma:  Health Sciences Center,3322.0,59.0,37.0,22.0
-OKLAHOMA,University of Oklahoma: ,University of Oklahoma:  Norman,27918.0,70.0,38.0,32.0
-OREGON,Portland State University,Portland State University main,26627.0,27.0,13.0,14.0
-OREGON,University of Oregon,University of Oregon main,23546.0,34.0,23.0,11.0
-PENNSYLVANIA,Bloomsburg University,Bloomsburg University main,9637.0,20.0,15.0,5.0
-PENNSYLVANIA,California University,California University main,7553.0,21.0,18.0,3.0
-PENNSYLVANIA,Cheyney University,Cheyney University main,746.0,10.0,7.0,3.0
-PENNSYLVANIA,Clarion University,Clarion University main,5224.0,14.0,9.0,5.0
-PENNSYLVANIA,Dickinson College,Dickinson College main,2420.0,20.0,14.0,6.0
-PENNSYLVANIA,East Stroudsburg University,East Stroudsburg University main,6822.0,15.0,10.0,5.0
-PENNSYLVANIA,Edinboro University,Edinboro University main,6181.0,15.0,14.0,1.0
-PENNSYLVANIA,Indiana University,Indiana University main,12971.0,26.0,21.0,5.0
-PENNSYLVANIA,Kutztown University,Kutztown University main,8513.0,19.0,16.0,3.0
-PENNSYLVANIA,Lehigh University,Lehigh University main,7059.0,36.0,26.0,10.0
-PENNSYLVANIA,Lock Haven University,Lock Haven University main,4220.0,15.0,12.0,3.0
-PENNSYLVANIA,Mansfield University,Mansfield University main,2180.0,11.0,8.0,3.0
-PENNSYLVANIA,Millersville University,Millersville University main,7914.0,16.0,14.0,2.0
-PENNSYLVANIA,Moravian College,Moravian College main,2426.0,17.0,14.0,3.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Abington,3951.0,8.0,3.0,5.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Altoona,3491.0,8.0,7.0,1.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Beaver,726.0,6.0,6.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Behrend,4566.0,11.0,7.0,4.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Berks,2888.0,8.0,7.0,1.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Brandywine,1379.0,3.0,3.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Fayette,643.0,2.0,2.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Greater Allegheny,550.0,5.0,5.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Harrisburg,5046.0,9.0,8.0,1.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Hazleton,863.0,5.0,5.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Mont Alto,903.0,5.0,5.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: New Kensington,686.0,1.0,1.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Schuylkill,759.0,4.0,4.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: University Park,47789.0,84.0,53.0,31.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Wilkes-Barre,487.0,1.0,1.0,0.0
-PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Worthington Scranton,1019.0,3.0,3.0,0.0
-PENNSYLVANIA,Shippensburg University,Shippensburg University main,6972.0,18.0,16.0,2.0
-PENNSYLVANIA,Slippery Rock University,Slippery Rock University main,8854.0,18.0,14.0,4.0
-PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Bradford,1465.0,8.0,6.0,2.0
-PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Greensburg,1520.0,9.0,8.0,1.0
-PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Johnstown,2769.0,13.0,12.0,1.0
-PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Pittsburgh,28664.0,155.0,89.0,66.0
-PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Titusville,332.0,7.0,6.0,1.0
-PENNSYLVANIA,West Chester University,West Chester University main,17005.0,46.0,25.0,21.0
-RHODE ISLAND,Brown University,Brown University main,9781.0,86.0,50.0,36.0
-RHODE ISLAND,University of Rhode Island,University of Rhode Island main,17822.0,35.0,31.0,4.0
-SOUTH CAROLINA,Benedict College,Benedict College main,2281.0,23.0,20.0,3.0
-SOUTH CAROLINA,Bob Jones University,Bob Jones University main,2901.0,3.0,3.0,0.0
-SOUTH CAROLINA,Clemson University,Clemson University main,23406.0,39.0,28.0,11.0
-SOUTH CAROLINA,Coastal Carolina University,Coastal Carolina University main,10479.0,89.0,35.0,54.0
-SOUTH CAROLINA,College of Charleston,College of Charleston main,11294.0,39.0,26.0,13.0
-SOUTH CAROLINA,Columbia College,Columbia College main,1588.0,8.0,6.0,2.0
-SOUTH CAROLINA,Francis Marion University,Francis Marion University main,3874.0,14.0,11.0,3.0
-SOUTH CAROLINA,Furman University,Furman University main,3003.0,19.0,11.0,8.0
-SOUTH CAROLINA,Greenville Technical College,Greenville Technical College main,11932.0,16.0,9.0,7.0
-SOUTH CAROLINA,Medical University of South Carolina,Medical University of South Carolina main,2986.0,77.0,58.0,19.0
-SOUTH CAROLINA,Midlands Technical College,Midlands Technical College main,10749.0,10.0,10.0,0.0
-SOUTH CAROLINA,Presbyterian College,Presbyterian College main,1352.0,8.0,7.0,1.0
-SOUTH CAROLINA,South Carolina State University,South Carolina State University main,2905.0,27.0,11.0,16.0
-SOUTH CAROLINA,Spartanburg Methodist College,Spartanburg Methodist College main,737.0,4.0,4.0,0.0
-SOUTH CAROLINA,The Citadel,The Citadel main,3602.0,19.0,16.0,3.0
-SOUTH CAROLINA,Tri-County Technical College,Tri-County Technical College main,6094.0,15.0,11.0,4.0
-SOUTH CAROLINA,Trident Technical College,Trident Technical College main,13561.0,28.0,23.0,5.0
-SOUTH CAROLINA,University of South Carolina:,University of South Carolina: Beaufort,2005.0,14.0,14.0,0.0
-SOUTH CAROLINA,University of South Carolina:,University of South Carolina: Upstate,5821.0,14.0,13.0,1.0
-SOUTH CAROLINA,Winthrop University,Winthrop University main,6109.0,20.0,14.0,6.0
-SOUTH DAKOTA,South Dakota State University,South Dakota State University main,12600.0,18.0,13.0,5.0
-TENNESSEE,Austin Peay State University,Austin Peay State University main,10344.0,27.0,17.0,10.0
-TENNESSEE,Chattanooga State Community College,Chattanooga State Community College main,8628.0,14.0,8.0,6.0
-TENNESSEE,Christian Brothers University,Christian Brothers University main,2138.0,20.0,9.0,11.0
-TENNESSEE,Cleveland State Community College,Cleveland State Community College main,3315.0,4.0,3.0,1.0
-TENNESSEE,Columbia State Community College,Columbia State Community College main,5645.0,5.0,1.0,4.0
-TENNESSEE,East Tennessee State University,East Tennessee State University main,14022.0,30.0,22.0,8.0
-TENNESSEE,Jackson State Community College,Jackson State Community College main,4689.0,5.0,4.0,1.0
-TENNESSEE,Lincoln Memorial University,Lincoln Memorial University main,4254.0,26.0,9.0,17.0
-TENNESSEE,Motlow State Community College,Motlow State Community College main,5838.0,2.0,2.0,0.0
-TENNESSEE,Northeast State Community College,Northeast State Community College main,6124.0,8.0,8.0,0.0
-TENNESSEE,Pellissippi State Community College,Pellissippi State Community College main,10244.0,14.0,11.0,3.0
-TENNESSEE,Roane State Community College,Roane State Community College main,5756.0,9.0,8.0,1.0
-TENNESSEE,Southwest Tennessee Community College,Southwest Tennessee Community College main,8327.0,22.0,18.0,4.0
-TENNESSEE,Tennessee State University,Tennessee State University main,8760.0,90.0,30.0,60.0
-TENNESSEE,Tennessee Technological University,Tennessee Technological University main,10493.0,22.0,13.0,9.0
-TENNESSEE,University of Memphis,University of Memphis main,21301.0,46.0,38.0,8.0
-TENNESSEE,University of Tennessee: ,University of Tennessee:  Chattanooga,11533.0,20.0,13.0,7.0
-TENNESSEE,University of Tennessee: ,University of Tennessee:  Health Science Center,3097.0,56.0,27.0,29.0
-TENNESSEE,University of Tennessee: ,University of Tennessee:  Knoxville,28052.0,90.0,51.0,39.0
-TENNESSEE,University of Tennessee: ,University of Tennessee:  Martin,6705.0,16.0,12.0,4.0
-TENNESSEE,University of the South,University of the South main,1815.0,15.0,11.0,4.0
-TENNESSEE,Vanderbilt University,Vanderbilt University main,12587.0,261.0,92.0,169.0
-TENNESSEE,Volunteer State Community College,Volunteer State Community College main,8684.0,12.0,9.0,3.0
-TENNESSEE,Walters State Community College,Walters State Community College main,5951.0,12.0,10.0,2.0
-TEXAS,Abilene Christian University,Abilene Christian University main,4910.0,15.0,14.0,1.0
-TEXAS,Alamo Colleges District,Alamo Colleges District main,56533.0,90.0,73.0,17.0
-TEXAS,Alvin Community College,Alvin Community College main,5677.0,10.0,9.0,1.0
-TEXAS,Amarillo College,Amarillo College main,10195.0,12.0,11.0,1.0
-TEXAS,Angelo State University,Angelo State University main,9581.0,16.0,12.0,4.0
-TEXAS,Austin College,Austin College main,1278.0,8.0,7.0,1.0
-TEXAS,Baylor Health Care System2,Baylor Health Care System2 main,0.0,164.0,57.0,107.0
-TEXAS,Central Texas College,Central Texas College main,18117.0,7.0,6.0,1.0
-TEXAS,College of the Mainland,College of the Mainland main,3995.0,9.0,8.0,1.0
-TEXAS,El Paso Community College,El Paso Community College main,29460.0,49.0,40.0,9.0
-TEXAS,Houston Community College,Houston Community College main,57032.0,109.0,72.0,37.0
-TEXAS,Laredo Community College,Laredo Community College main,9176.0,24.0,22.0,2.0
-TEXAS,Paris Junior College,Paris Junior College main,4806.0,5.0,5.0,0.0
-TEXAS,Prairie View A&M University,Prairie View A&M University main,8782.0,19.0,15.0,4.0
-TEXAS,Rice University,Rice University main,6855.0,45.0,29.0,16.0
-TEXAS,Southern Methodist University,Southern Methodist University main,11739.0,36.0,29.0,7.0
-TEXAS,Stephen F. Austin State University,Stephen F. Austin State University main,12742.0,51.0,27.0,24.0
-TEXAS,St. Thomas University,St. Thomas University main,3247.0,16.0,8.0,8.0
-TEXAS,Texas A&M International University,Texas A&M International University main,7390.0,29.0,20.0,9.0
-TEXAS,Texas A&M University,Texas A&M University College Station,65632.0,135.0,68.0,67.0
-TEXAS,Texas Christian University,Texas Christian University main,10394.0,56.0,32.0,24.0
-TEXAS,Texas Southern University,Texas Southern University main,8862.0,78.0,28.0,50.0
-TEXAS,Texas State Technical College: ,Texas State Technical College:  Harlingen2,0.0,13.0,10.0,3.0
-TEXAS,Texas State Technical College: ,Texas State Technical College:  West Texas2,0.0,6.0,6.0,0.0
-TEXAS,Texas Woman's University,Texas Woman's University main,15655.0,43.0,19.0,24.0
-TEXAS,University of Houston,University of Houston Downtown Campus,14251.0,49.0,24.0,25.0
-TEXAS,University of North Texas,University of North Texas Denton,38145.0,59.0,39.0,20.0
-TEXAS,University of Texas:,University of Texas: Arlington,45282.0,109.0,43.0,66.0
-TEXAS,University of Texas:,University of Texas: Dallas,26793.0,74.0,29.0,45.0
-TEXAS,University of Texas:,University of Texas: El Paso,23922.0,54.0,26.0,28.0
-TEXAS,University of Texas:,"University of Texas: Health Science Center, Tyler",12.0,27.0,8.0,19.0
-TEXAS,University of Texas:,University of Texas: Permian Basin,6673.0,25.0,14.0,11.0
-TEXAS,University of Texas:,University of Texas: Rio Grande Valley,27560.0,76.0,36.0,40.0
-TEXAS,University of Texas:,University of Texas: Southwestern Medical School,2316.0,135.0,44.0,91.0
-TEXAS,University of Texas:,University of Texas: Tyler,9835.0,30.0,12.0,18.0
-TEXAS,West Texas A&M University,West Texas A&M University main,9901.0,24.0,16.0,8.0
-UTAH,Brigham Young University,Brigham Young University main,34240.0,43.0,30.0,13.0
-UTAH,Southern Utah University,Southern Utah University main,9299.0,6.0,5.0,1.0
-UTAH,University of Utah,University of Utah main,31860.0,115.0,35.0,80.0
-UTAH,Utah State University:,Utah State University: Eastern2,0.0,2.0,2.0,0.0
-UTAH,Utah State University:,Utah State University: Logan,28118.0,17.0,10.0,7.0
-UTAH,Utah Valley University,Utah Valley University main,34978.0,14.0,11.0,3.0
-UTAH,Weber State University,Weber State University main,26809.0,13.0,11.0,2.0
-VERMONT,University of Vermont,University of Vermont main,13105.0,35.0,23.0,12.0
-VIRGINIA,Bridgewater College,Bridgewater College main,1882.0,13.0,7.0,6.0
-VIRGINIA,Christopher Newport University,Christopher Newport University main,5042.0,28.0,20.0,8.0
-VIRGINIA,College of William and Mary,College of William and Mary  ,8617.0,28.0,20.0,8.0
-VIRGINIA,Eastern Virginia Medical School,Eastern Virginia Medical School main,1130.0,49.0,21.0,28.0
-VIRGINIA,Emory and Henry College,Emory and Henry College main,1167.0,3.0,3.0,0.0
-VIRGINIA,Ferrum College,Ferrum College main,1294.0,9.0,9.0,0.0
-VIRGINIA,George Mason University,George Mason University main,34909.0,56.0,41.0,15.0
-VIRGINIA,Germanna Community College,Germanna Community College main,6701.0,7.0,3.0,4.0
-VIRGINIA,Hampton University,Hampton University main,4646.0,52.0,30.0,22.0
-VIRGINIA,James Madison University,James Madison University main,21270.0,39.0,32.0,7.0
-VIRGINIA,J. Sargeant Reynolds Community College,J. Sargeant Reynolds Community College main,10375.0,18.0,13.0,5.0
-VIRGINIA,Longwood University,Longwood University main,4884.0,27.0,17.0,10.0
-VIRGINIA,Lord Fairfax Community College,Lord Fairfax Community College main,6868.0,4.0,4.0,0.0
-VIRGINIA,Norfolk State University,Norfolk State University main,5421.0,38.0,24.0,14.0
-VIRGINIA,Northern Virginia Community College,Northern Virginia Community College main,50835.0,55.0,43.0,12.0
-VIRGINIA,Old Dominion University,Old Dominion University main,24322.0,56.0,42.0,14.0
-VIRGINIA,Radford University,Radford University main,9401.0,30.0,22.0,8.0
-VIRGINIA,Richard Bland College,Richard Bland College main,2409.0,5.0,4.0,1.0
-VIRGINIA,Thomas Nelson Community College,Thomas Nelson Community College main,8897.0,12.0,9.0,3.0
-VIRGINIA,University of Mary Washington,University of Mary Washington main,4726.0,24.0,18.0,6.0
-VIRGINIA,University of Richmond,University of Richmond main,4131.0,35.0,22.0,13.0
-VIRGINIA,University of Virginia,University of Virginia main,23898.0,116.0,48.0,68.0
-VIRGINIA,University of Virginia's College at Wise,University of Virginia's College at Wise main,2212.0,10.0,9.0,1.0
-VIRGINIA,Virginia Commonwealth University,Virginia Commonwealth University main,30872.0,118.0,90.0,28.0
-VIRGINIA,Virginia Military Institute,Virginia Military Institute main,1713.0,10.0,9.0,1.0
-VIRGINIA,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University main,33170.0,65.0,46.0,19.0
-VIRGINIA,Virginia State University,Virginia State University main,4584.0,31.0,16.0,15.0
-VIRGINIA,Virginia Western Community College,Virginia Western Community College main,7719.0,9.0,9.0,0.0
-WASHINGTON,Central Washington University,Central Washington University main,11971.0,16.0,14.0,2.0
-WASHINGTON,Eastern Washington University,Eastern Washington University main,12279.0,17.0,16.0,1.0
-WASHINGTON,Evergreen State College,Evergreen State College main,4089.0,13.0,8.0,5.0
-WASHINGTON,University of Washington,University of Washington main,45591.0,84.0,47.0,37.0
-WASHINGTON,Washington State University: ,Washington State University:  Pullman,30142.0,26.0,21.0,5.0
-WASHINGTON,Washington State University: ,Washington State University:  Vancouver2,0.0,6.0,3.0,3.0
-WASHINGTON,Western Washington University,Western Washington University main,15574.0,22.0,14.0,8.0
-WEST VIRGINIA,Bluefield State College,Bluefield State College main,1362.0,2.0,2.0,0.0
-WEST VIRGINIA,Concord University,Concord University main,2451.0,9.0,6.0,3.0
-WEST VIRGINIA,Fairmont State University,Fairmont State University main,4049.0,12.0,9.0,3.0
-WEST VIRGINIA,Glenville State College,Glenville State College main,1641.0,3.0,3.0,0.0
-WEST VIRGINIA,Marshall University,Marshall University main,13647.0,21.0,20.0,1.0
-WEST VIRGINIA,Potomac State College,Potomac State College main,1452.0,7.0,6.0,1.0
-WEST VIRGINIA,Shepherd University,Shepherd University main,3779.0,12.0,10.0,2.0
-WEST VIRGINIA,West Liberty University,West Liberty University main,2317.0,6.0,6.0,0.0
-WEST VIRGINIA,West Virginia State University,West Virginia State University main,3514.0,9.0,7.0,2.0
-WEST VIRGINIA,West Virginia Tech,West Virginia Tech main,1347.0,7.0,7.0,0.0
-WEST VIRGINIA,West Virginia University,West Virginia University main,28488.0,71.0,54.0,17.0
-WISCONSIN,Marquette University,Marquette University main,11294.0,66.0,43.0,23.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Eau Claire,10747.0,11.0,11.0,0.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Green Bay,7029.0,12.0,11.0,1.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: La Crosse,10637.0,19.0,12.0,7.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Madison,42582.0,128.0,59.0,69.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Milwaukee,25601.0,48.0,36.0,12.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Oshkosh,13958.0,16.0,13.0,3.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Parkside,4371.0,12.0,8.0,4.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Platteville,8779.0,10.0,8.0,2.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: River Falls,5938.0,7.0,7.0,0.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Stevens Point,8627.0,9.0,6.0,3.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Stout,9633.0,11.0,9.0,2.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Superior,2489.0,7.0,2.0,5.0
-WISCONSIN,University of Wisconsin:,University of Wisconsin: Whitewater,12657.0,17.0,15.0,2.0
-WYOMING,University of Wyoming,University of Wyoming main,12366.0,26.0,15.0,11.0
-"1 The student enrollment figures provided by the United States Department of Education are for the 2016 school year, the most recent available. The enrollment figures include full-time and part-time students.  ",University of Wyoming,University of Wyoming main,0.0,0.0,0.0,0.0
-2 Student enrollment figures were not available.,University of Wyoming,University of Wyoming main,0.0,0.0,0.0,0.0
+ALABAMA,Alabama A & M University,Alabama A & M University main,5859,42,18,24
+ALABAMA,Alabama State University,Alabama State University main,5318,40,29,11
+ALABAMA,Auburn University,Auburn University Montgomery,4878,21,13,8
+ALABAMA,Jacksonville State University,Jacksonville State University main,8514,21,13,8
+ALABAMA,Lawson State Community College,Lawson State Community College main,3128,9,8,1
+ALABAMA,Tuskegee University,Tuskegee University main,2851,24,9,15
+ALABAMA,University of Alabama: ,University of Alabama:  Birmingham,19535,165,101,64
+ALABAMA,University of Alabama: ,University of Alabama:  Huntsville,8468,29,16,13
+ALABAMA,University of Alabama: ,University of Alabama:  Tuscaloosa,37663,106,86,20
+ALABAMA,University of South Alabama,University of South Alabama main,16443,38,33,5
+ALASKA,University of Alaska: ,University of Alaska:  Anchorage,16318,18,13,5
+ALASKA,University of Alaska: ,University of Alaska:  Fairbanks,8283,10,5,5
+ARIZONA,Arizona State University,Arizona State University Main Campus,97849,148,84,64
+ARIZONA,Arizona Western College,Arizona Western College main,7569,14,9,5
+ARIZONA,Central Arizona College,Central Arizona College main,5585,8,7,1
+ARIZONA,Northern Arizona University,Northern Arizona University main,30361,33,21,12
+ARIZONA,Pima Community College,Pima Community College main,24956,51,29,22
+ARIZONA,University of Arizona,University of Arizona main,43161,95,62,33
+ARIZONA,Yavapai College,Yavapai College main,7282,10,9,1
+ARKANSAS,Arkansas State University: ,Arkansas State University:  Beebe,3989,6,5,1
+ARKANSAS,Arkansas State University: ,Arkansas State University:  Jonesboro,14085,23,18,5
+ARKANSAS,Arkansas State University: ,Arkansas State University:  Newport,2735,2,2,0
+ARKANSAS,Arkansas Tech University,Arkansas Tech University main,11894,20,17,3
+ARKANSAS,Henderson State University,Henderson State University main,3551,9,8,1
+ARKANSAS,Southern Arkansas University,Southern Arkansas University main,4771,9,8,1
+ARKANSAS,Southern Arkansas University Tech,Southern Arkansas University Tech main,780,3,3,0
+ARKANSAS,University of Arkansas: ,University of Arkansas:  Fayetteville,27194,51,35,16
+ARKANSAS,University of Arkansas: ,University of Arkansas:  Little Rock,11746,39,26,13
+ARKANSAS,University of Arkansas: ,University of Arkansas:  Medical Sciences,2869,67,41,26
+ARKANSAS,University of Arkansas: ,University of Arkansas:  Monticello,3924,10,9,1
+ARKANSAS,University of Arkansas: ,University of Arkansas:  Pine Bluff,2821,19,13,6
+ARKANSAS,University of Arkansas Community College,University of Arkansas Community College Morrilton,2029,3,3,0
+ARKANSAS,University of Central Arkansas,University of Central Arkansas main,11487,36,26,10
+CALIFORNIA,Allan Hancock College,Allan Hancock College main,12012,9,4,5
+CALIFORNIA,California State Polytechnic University: ,California State Polytechnic University:  Pomona,25326,51,19,32
+CALIFORNIA,California State Polytechnic University: ,California State Polytechnic University:  San Luis Obispo,21306,36,20,16
+CALIFORNIA,California State University: ,California State University:  Bakersfield,9341,22,13,9
+CALIFORNIA,California State University: ,California State University:  Channel Islands,6611,28,14,14
+CALIFORNIA,California State University: ,California State University:  Chico,17557,24,15,9
+CALIFORNIA,California State University: ,California State University:  Dominguez Hills,14731,26,19,7
+CALIFORNIA,California State University: ,California State University:  East Bay,15855,30,15,15
+CALIFORNIA,California State University: ,California State University:  Fresno,24405,40,27,13
+CALIFORNIA,California State University: ,California State University:  Fullerton,40235,44,30,14
+CALIFORNIA,California State University: ,California State University:  Long Beach,37776,39,24,15
+CALIFORNIA,California State University: ,California State University:  Los Angeles,27827,36,21,15
+CALIFORNIA,California State University: ,California State University:  Monterey Bay,7274,26,14,12
+CALIFORNIA,California State University: ,California State University:  Northridge,39916,38,22,16
+CALIFORNIA,California State University: ,California State University:  Sacramento,30510,38,22,16
+CALIFORNIA,California State University: ,California State University:  San Bernardino,20767,29,18,11
+CALIFORNIA,California State University: ,California State University:  San Jose,32154,69,27,42
+CALIFORNIA,California State University: ,California State University:  San Marcos,13144,24,19,5
+CALIFORNIA,California State University: ,California State University:  Stanislaus,9762,20,12,8
+CALIFORNIA,College of the Sequoias,College of the Sequoias main,11959,7,6,1
+CALIFORNIA,Contra Costa Community College,Contra Costa Community College main,34487,32,21,11
+CALIFORNIA,Cuesta College,Cuesta College main,10232,12,7,5
+CALIFORNIA,El Camino College,El Camino College main,24033,31,22,9
+CALIFORNIA,Foothill-De Anza College,Foothill-De Anza College main,37085,22,13,9
+CALIFORNIA,Humboldt State University,Humboldt State University main,8503,20,12,8
+CALIFORNIA,Irvine Valley College,Irvine Valley College main,14147,14,9,5
+CALIFORNIA,Marin Community College,Marin Community College main,5621,8,6,2
+CALIFORNIA,Pasadena Community College,Pasadena Community College main,27165,13,9,4
+CALIFORNIA,Riverside Community College,Riverside Community College main,38677,27,20,7
+CALIFORNIA,San Bernardino Community College,San Bernardino Community College main,18657,20,7,13
+CALIFORNIA,San Diego State University,San Diego State University main,34688,49,26,23
+CALIFORNIA,San Francisco State University,San Francisco State University main,29045,51,27,24
+CALIFORNIA,San Jose/Evergreen Community College ,San Jose/Evergreen Community College  main,17213,17,7,10
+CALIFORNIA,Santa Rosa Junior College,Santa Rosa Junior College main,21217,26,13,13
+CALIFORNIA,Sonoma State University,Sonoma State University main,9323,16,12,4
+CALIFORNIA,State Center Community College District,State Center Community College District main,39661,22,18,4
+CALIFORNIA,University of California: ,University of California:  Berkeley,40154,123,57,66
+CALIFORNIA,University of California: ,University of California:  Davis,36460,70,45,25
+CALIFORNIA,University of California: ,University of California:  Irvine,32754,55,38,17
+CALIFORNIA,University of California: ,University of California:  Los Angeles,43548,91,56,35
+CALIFORNIA,University of California: ,University of California:  Merced,7336,25,14,11
+CALIFORNIA,University of California: ,University of California:  Riverside,22715,46,34,12
+CALIFORNIA,University of California: ,University of California:  San Diego,34979,73,38,35
+CALIFORNIA,University of California: ,University of California:  San Francisco,3145,141,50,91
+CALIFORNIA,University of California: ,University of California:  Santa Barbara,24346,58,39,19
+CALIFORNIA,University of California: ,University of California:  Santa Cruz,18783,31,20,11
+CALIFORNIA,Ventura County Community College District,Ventura County Community College District main,33976,15,14,1
+CALIFORNIA,West Valley-Mission College,West Valley-Mission College main,16131,13,9,4
+COLORADO,Adams State University,Adams State University main,3370,6,5,1
+COLORADO,Arapahoe Community College,Arapahoe Community College main,10261,10,8,2
+COLORADO,Auraria Higher Education Center2,Auraria Higher Education Center2 main,0,49,31,18
+COLORADO,Colorado School of Mines,Colorado School of Mines main,6069,12,11,1
+COLORADO,Colorado State University,Colorado State University Fort Collins,31856,49,35,14
+COLORADO,Fort Lewis College,Fort Lewis College main,3600,10,8,2
+COLORADO,Pikes Peak Community College,Pikes Peak Community College main,13154,20,18,2
+COLORADO,Red Rocks Community College,Red Rocks Community College main,7738,10,6,4
+COLORADO,University of Colorado:,University of Colorado: Boulder,33977,59,34,25
+COLORADO,University of Colorado:,University of Colorado: Colorado Springs,12559,30,18,12
+COLORADO,University of Colorado:,University of Colorado: Denver,23960,59,26,33
+COLORADO,University of Northern Colorado,University of Northern Colorado main,13087,23,15,8
+CONNECTICUT,Central Connecticut State University,Central Connecticut State University main,11784,25,18,7
+CONNECTICUT,Eastern Connecticut State University,Eastern Connecticut State University main,5362,22,14,8
+CONNECTICUT,Southern Connecticut State University,Southern Connecticut State University main,10320,29,23,6
+CONNECTICUT,University of Connecticut: ,University of Connecticut:  Health Center2,0,40,17,23
+CONNECTICUT,University of Connecticut: ,"University of Connecticut:  Storrs, Avery Point and Hartford2",0,97,77,20
+CONNECTICUT,Western Connecticut State University,Western Connecticut State University main,5721,18,12,6
+CONNECTICUT,Yale University,Yale University main,12458,106,89,17
+DELAWARE,Delaware State University,Delaware State University main,4328,39,15,24
+DELAWARE,University of Delaware,University of Delaware main,23009,75,50,25
+FLORIDA,Florida A&M University,Florida A&M University main,9619,33,28,5
+FLORIDA,Florida Atlantic University,Florida Atlantic University main,30541,64,36,28
+FLORIDA,Florida Gulf Coast University,Florida Gulf Coast University main,14821,25,18,7
+FLORIDA,Florida International University,Florida International University main,55003,94,61,33
+FLORIDA,Florida Polytechnic University2,Florida Polytechnic University2 main,0,12,9,3
+FLORIDA,Florida SouthWestern State College,Florida SouthWestern State College main,16627,23,10,13
+FLORIDA,New College of Florida,New College of Florida main,875,19,13,6
+FLORIDA,Pensacola State College,Pensacola State College main,9643,12,10,2
+FLORIDA,Santa Fe College,Santa Fe College main,15404,23,17,6
+FLORIDA,Tallahassee Community College,Tallahassee Community College main,12200,26,12,14
+FLORIDA,University of Central Florida,University of Central Florida main,64088,120,73,47
+FLORIDA,University of Florida,University of Florida main,52367,130,80,50
+FLORIDA,University of North Florida,University of North Florida main,15762,38,30,8
+FLORIDA,University of South Florida: ,University of South Florida:  St. Petersburg,4702,21,15,6
+FLORIDA,University of South Florida: ,University of South Florida:  Tampa,42861,68,48,20
+FLORIDA,University of West Florida,University of West Florida main,12966,30,21,9
+GEORGIA,Abraham Baldwin Agricultural College,Abraham Baldwin Agricultural College main,3475,15,13,2
+GEORGIA,Agnes Scott College,Agnes Scott College main,927,15,8,7
+GEORGIA,Albany State University,Albany State University main,3041,39,35,4
+GEORGIA,Albany Technical College,Albany Technical College main,3251,3,3,0
+GEORGIA,Andrew College,Andrew College main,276,2,2,0
+GEORGIA,Armstrong State University,Armstrong State University main,7157,23,18,5
+GEORGIA,Athens Technical College,Athens Technical College main,4210,2,2,0
+GEORGIA,Augusta Technical College,Augusta Technical College main,4370,6,6,0
+GEORGIA,Augusta University,Augusta University main,7938,58,43,15
+GEORGIA,Bainbridge State College,Bainbridge State College main,2468,8,5,3
+GEORGIA,Berry College,Berry College main,2174,17,12,5
+GEORGIA,Chattahoochee Technical College,Chattahoochee Technical College main,9999,14,11,3
+GEORGIA,College of Coastal Georgia,College of Coastal Georgia main,3529,14,14,0
+GEORGIA,Columbus State University,Columbus State University main,8407,39,29,10
+GEORGIA,Dalton State College,Dalton State College main,5188,16,13,3
+GEORGIA,East Georgia College,East Georgia College main,3152,10,9,1
+GEORGIA,Emory University,Emory University main,14067,67,50,17
+GEORGIA,Fort Valley State University,Fort Valley State University main,2679,34,14,20
+GEORGIA,Georgia College and State University,Georgia College and State University main,6915,22,16,6
+GEORGIA,Georgia Gwinnett College,Georgia Gwinnett College main,12052,28,23,5
+GEORGIA,Georgia Institute of Technology,Georgia Institute of Technology main,26839,104,74,30
+GEORGIA,Georgia Military College,Georgia Military College main,8234,5,3,2
+GEORGIA,Georgia Southern University,Georgia Southern University main,20673,70,54,16
+GEORGIA,Georgia Southwestern State University,Georgia Southwestern State University main,2954,12,12,0
+GEORGIA,Georgia State University,Georgia State University main,32237,268,126,142
+GEORGIA,Gordon State College,Gordon State College main,3901,13,12,1
+GEORGIA,Kennesaw State University,Kennesaw State University main,35018,100,59,41
+GEORGIA,Mercer University,Mercer University main,8615,30,22,8
+GEORGIA,Middle Georgia State University,Middle Georgia State University main,7714,29,26,3
+GEORGIA,Morehouse College,Morehouse College main,2108,23,8,15
+GEORGIA,Savannah Technical College,Savannah Technical College main,3938,11,10,1
+GEORGIA,Southern Crescent Technical College,Southern Crescent Technical College main,4703,5,5,0
+GEORGIA,South Georgia State College,South Georgia State College main,2542,11,7,4
+GEORGIA,Spelman College,Spelman College main,2125,24,15,9
+GEORGIA,University of Georgia,University of Georgia main,36574,104,82,22
+GEORGIA,University of North Georgia,University of North Georgia main,18219,44,35,9
+GEORGIA,University of West Georgia,University of West Georgia main,13308,42,32,10
+GEORGIA,Valdosta State University,Valdosta State University main,11375,33,25,8
+GEORGIA,Wesleyan College,Wesleyan College main,676,5,5,0
+GEORGIA,West Georgia Technical College,West Georgia Technical College main,6743,7,7,0
+GEORGIA,Young Harris College,Young Harris College main,1200,4,4,0
+ILLINOIS,Chicago State University,Chicago State University main,3578,26,24,2
+ILLINOIS,Elgin Community College,Elgin Community College main,9918,18,16,2
+ILLINOIS,Illinois Central College,Illinois Central College main,9290,19,7,12
+ILLINOIS,Illinois State University,Illinois State University main,21039,39,29,10
+ILLINOIS,John Wood Community College,John Wood Community College main,1968,5,4,1
+ILLINOIS,Joliet Junior College,Joliet Junior College main,15383,24,15,9
+ILLINOIS,Lewis University,Lewis University main,6544,17,8,9
+ILLINOIS,Lincoln Land Community College,Lincoln Land Community College main,5744,15,13,2
+ILLINOIS,Millikin University,Millikin University main,2055,17,5,12
+ILLINOIS,Parkland College,Parkland College main,7569,15,12,3
+ILLINOIS,Rend Lake College,Rend Lake College main,2489,3,3,0
+ILLINOIS,Southern Illinois University:,Southern Illinois University: Carbondale,15987,54,37,17
+ILLINOIS,Southern Illinois University:,Southern Illinois University: Edwardsville,14142,49,39,10
+ILLINOIS,Southern Illinois University:,Southern Illinois University: School of Medicine2,0,6,6,0
+ILLINOIS,University of Illinois:,University of Illinois: Springfield,5428,22,15,7
+ILLINOIS,University of Illinois:,University of Illinois: Urbana ,46951,96,60,36
+IOWA,Iowa State University,Iowa State University main,36350,47,35,12
+IOWA,University of Iowa,University of Iowa main,32011,60,38,22
+IOWA,University of Northern Iowa,University of Northern Iowa main,11905,20,17,3
+KANSAS,Butler Community College,Butler Community College main,9190,7,6,1
+KANSAS,Emporia State University,Emporia State University main,5887,10,10,0
+KANSAS,Fort Hays State University,Fort Hays State University main,14658,11,9,2
+KANSAS,Garden City Community College,Garden City Community College main,2053,1,1,0
+KANSAS,Kansas City Kansas Community College,Kansas City Kansas Community College main,5726,16,15,1
+KANSAS,Kansas State University,Kansas State University main,23779,42,23,19
+KANSAS,Pittsburg State University,Pittsburg State University main,7102,16,13,3
+KANSAS,University of Kansas,University of Kansas Main Campus,27565,75,31,44
+KANSAS,Washburn University,Washburn University main,6636,22,16,6
+KANSAS,Wichita State University,Wichita State University main,14166,40,26,14
+KENTUCKY,Eastern Kentucky University,Eastern Kentucky University main,16881,31,24,7
+KENTUCKY,Kentucky State University,Kentucky State University main,1736,13,7,6
+KENTUCKY,Morehead State University,Morehead State University main,10746,27,16,11
+KENTUCKY,Murray State University,Murray State University main,10486,16,16,0
+KENTUCKY,Northern Kentucky University,Northern Kentucky University main,14542,20,15,5
+KENTUCKY,Transylvania University,Transylvania University main,963,11,9,2
+KENTUCKY,University of Kentucky,University of Kentucky main,29781,161,55,106
+KENTUCKY,University of Louisville,University of Louisville main,21578,57,44,13
+KENTUCKY,Western Kentucky University,Western Kentucky University main,20271,30,21,9
+LOUISIANA,Delgado Community College,Delgado Community College main,15110,38,26,12
+LOUISIANA,Dillard University,Dillard University main,1261,21,13,8
+LOUISIANA,Grambling State University,Grambling State University main,4863,23,10,13
+LOUISIANA,Louisiana State University: ,Louisiana State University:  Baton Rouge,31409,75,58,17
+LOUISIANA,Louisiana State University: ,"Louisiana State University:  Health Sciences Center, New Orleans",2758,28,28,0
+LOUISIANA,Louisiana State University: ,"Louisiana State University:  Health Sciences Center, Shreveport",874,46,32,14
+LOUISIANA,Louisiana State University: ,Louisiana State University:  Shreveport,4746,8,7,1
+LOUISIANA,Louisiana Tech University,Louisiana Tech University main,12672,19,17,2
+LOUISIANA,McNeese State University,McNeese State University main,7621,16,10,6
+LOUISIANA,Nicholls State University,Nicholls State University main,6255,11,10,1
+LOUISIANA,Northwestern State University,Northwestern State University main,9819,30,24,6
+LOUISIANA,Southeastern Louisiana University,Southeastern Louisiana University main,14483,26,21,5
+LOUISIANA,Southern University and A&M College: ,Southern University and A&M College:  Baton Rouge,5877,39,21,18
+LOUISIANA,Southern University and A&M College: ,Southern University and A&M College:  New Orleans,2430,20,17,3
+LOUISIANA,Southern University and A&M College: ,Southern University and A&M College:  Shreveport,3240,6,5,1
+LOUISIANA,Tulane University,Tulane University main,12581,99,81,18
+LOUISIANA,University of Louisiana:,University of Louisiana: Lafayette,17519,36,32,4
+LOUISIANA,University of Louisiana:,University of Louisiana: Monroe,9038,24,23,1
+LOUISIANA,University of New Orleans,University of New Orleans main,8037,21,18,3
+MAINE,University of Maine: ,University of Maine:  Farmington,2000,5,4,1
+MAINE,University of Maine: ,University of Maine:  Orono,11219,26,18,8
+MAINE,University of Southern Maine,University of Southern Maine main,7855,18,10,8
+MARYLAND,Bowie State University,Bowie State University main,5669,28,14,14
+MARYLAND,Coppin State University,Coppin State University main,2939,35,23,12
+MARYLAND,Frostburg State University,Frostburg State University main,5676,25,18,7
+MARYLAND,Hagerstown Community College,Hagerstown Community College main,4061,2,2,0
+MARYLAND,Morgan State University,Morgan State University main,7689,56,35,21
+MARYLAND,Prince George's County Community College,Prince George's County Community College main,12417,18,12,6
+MARYLAND,Salisbury University,Salisbury University main,8748,31,16,15
+MARYLAND,St. Mary's College,St. Mary's College main,1629,12,4,8
+MARYLAND,Towson University,Towson University main,22343,52,39,13
+MARYLAND,University of Baltimore,University of Baltimore main,5983,29,18,11
+MARYLAND,University of Maryland: ,University of Maryland:  Baltimore City,6482,140,56,84
+MARYLAND,University of Maryland: ,University of Maryland:  Baltimore County,13640,37,26,11
+MARYLAND,University of Maryland: ,University of Maryland:  College Park,39083,131,86,45
+MARYLAND,University of Maryland: ,University of Maryland:  Eastern Shore,3904,16,12,4
+MASSACHUSETTS,Amherst College,Amherst College main,1849,19,14,5
+MASSACHUSETTS,Assumption College,Assumption College main,2607,20,15,5
+MASSACHUSETTS,Babson College,Babson College main,3165,29,19,10
+MASSACHUSETTS,Becker College,Becker College main,2189,18,12,6
+MASSACHUSETTS,Bentley University,Bentley University main,5506,31,21,10
+MASSACHUSETTS,Boston College,Boston College main,14466,69,48,21
+MASSACHUSETTS,Boston University,Boston University main,32695,67,51,16
+MASSACHUSETTS,Brandeis University,Brandeis University main,5729,23,21,2
+MASSACHUSETTS,Bridgewater State University,Bridgewater State University main,10998,25,22,3
+MASSACHUSETTS,Bristol Community College,Bristol Community College main,8476,8,7,1
+MASSACHUSETTS,Bunker Hill Community College,Bunker Hill Community College main,13253,16,15,1
+MASSACHUSETTS,Clark University,Clark University main,3298,14,10,4
+MASSACHUSETTS,College of the Holy Cross,College of the Holy Cross main,2720,23,17,6
+MASSACHUSETTS,Dean College,Dean College main,1339,16,1,15
+MASSACHUSETTS,Emerson College,Emerson College main,4442,16,13,3
+MASSACHUSETTS,Fitchburg State University,Fitchburg State University main,6763,25,20,5
+MASSACHUSETTS,Framingham State University,Framingham State University main,5977,18,15,3
+MASSACHUSETTS,Gordon College,Gordon College main,2004,7,7,0
+MASSACHUSETTS,Harvard University,Harvard University main,29908,98,74,24
+MASSACHUSETTS,Holyoke Community College,Holyoke Community College main,5890,14,14,0
+MASSACHUSETTS,Massachusetts Bay Community College,Massachusetts Bay Community College main,4855,8,8,0
+MASSACHUSETTS,Massachusetts College of Art,Massachusetts College of Art main,1982,29,10,19
+MASSACHUSETTS,Massachusetts College of Liberal Arts,Massachusetts College of Liberal Arts main,1644,13,9,4
+MASSACHUSETTS,Massachusetts Institute of Technology,Massachusetts Institute of Technology main,11376,65,58,7
+MASSACHUSETTS,Massasoit Community College,Massasoit Community College main,7471,19,18,1
+MASSACHUSETTS,Merrimack College,Merrimack College main,4014,18,15,3
+MASSACHUSETTS,Mount Holyoke College,Mount Holyoke College main,2327,60,47,13
+MASSACHUSETTS,Mount Wachusett Community College,Mount Wachusett Community College main,3961,11,10,1
+MASSACHUSETTS,Northeastern University,Northeastern University main,20381,98,63,35
+MASSACHUSETTS,North Shore Community College,North Shore Community College main,6315,24,19,5
+MASSACHUSETTS,Quinsigamond Community College,Quinsigamond Community College main,7696,15,12,3
+MASSACHUSETTS,Salem State University,Salem State University main,9001,27,22,5
+MASSACHUSETTS,Springfield College,Springfield College main,3144,47,18,29
+MASSACHUSETTS,Springfield Technical Community College,Springfield Technical Community College main,5622,18,15,3
+MASSACHUSETTS,Stonehill College,Stonehill College main,2481,21,15,6
+MASSACHUSETTS,Tufts University,Tufts University Medford,11489,89,48,41
+MASSACHUSETTS,University of Massachusetts: ,University of Massachusetts:  Amherst,30037,78,62,16
+MASSACHUSETTS,University of Massachusetts: ,University of Massachusetts:  Dartmouth,8647,37,26,11
+MASSACHUSETTS,University of Massachusetts: ,"University of Massachusetts:  Medical Center, Worcester",1108,26,20,6
+MASSACHUSETTS,Wellesley College,Wellesley College main,2482,17,13,4
+MASSACHUSETTS,Wentworth Institute of Technology,Wentworth Institute of Technology main,4526,23,16,7
+MASSACHUSETTS,Western New England University,Western New England University main,3810,27,15,12
+MASSACHUSETTS,Westfield State University,Westfield State University main,6335,23,17,6
+MASSACHUSETTS,Wheaton College,Wheaton College main,1651,17,14,3
+MASSACHUSETTS,Worcester Polytechnic Institute,Worcester Polytechnic Institute main,6642,22,17,5
+MASSACHUSETTS,Worcester State University,Worcester State University main,6471,22,16,6
+MICHIGAN,Central Michigan University,Central Michigan University main,25986,36,23,13
+MICHIGAN,Delta College,Delta College main,9132,8,5,3
+MICHIGAN,Eastern Michigan University,Eastern Michigan University main,21246,49,38,11
+MICHIGAN,Ferris State University,Ferris State University main,14187,17,13,4
+MICHIGAN,Grand Rapids Community College,Grand Rapids Community College main,14464,16,12,4
+MICHIGAN,Grand Valley State University,Grand Valley State University main,25460,22,18,4
+MICHIGAN,Kalamazoo Valley Community College,Kalamazoo Valley Community College main,8549,8,6,2
+MICHIGAN,Kellogg Community College,Kellogg Community College main,4815,3,3,0
+MICHIGAN,Kirtland Community College,Kirtland Community College main,1529,1,1,0
+MICHIGAN,Lansing Community College,Lansing Community College main,13583,15,10,5
+MICHIGAN,Macomb Community College,Macomb Community College main,21734,26,22,4
+MICHIGAN,Michigan State University,Michigan State University main,50340,118,87,31
+MICHIGAN,Northern Michigan University,Northern Michigan University main,7865,24,21,3
+MICHIGAN,Oakland Community College,Oakland Community College main,18923,23,22,1
+MICHIGAN,Oakland University,Oakland University main,20012,28,21,7
+MICHIGAN,Saginaw Valley State University,Saginaw Valley State University main,9105,9,8,1
+MICHIGAN,Schoolcraft College,Schoolcraft College main,11339,15,11,4
+MICHIGAN,University of Michigan: ,University of Michigan:  Ann Arbor,44718,31,19,12
+MICHIGAN,University of Michigan: ,University of Michigan:  Dearborn,9131,27,13,14
+MICHIGAN,University of Michigan: ,University of Michigan:  Flint,8044,31,19,12
+MICHIGAN,Western Michigan University,Western Michigan University main,23227,39,32,7
+MINNESOTA,University of Minnesota:,University of Minnesota: Duluth,11018,11,9,2
+MINNESOTA,University of Minnesota:,University of Minnesota: Morris,1771,5,3,2
+MINNESOTA,University of Minnesota:,University of Minnesota: Twin Cities,51579,65,53,12
+MISSISSIPPI,Coahoma Community College,Coahoma Community College main,2064,10,9,1
+MISSISSIPPI,Jackson State University,Jackson State University main,9811,63,33,30
+MISSISSIPPI,Mississippi State University,Mississippi State University main,21622,44,31,13
+MISSISSIPPI,Northeast Mississippi Community College,Northeast Mississippi Community College main,3521,7,7,0
+MISSISSIPPI,University of Mississippi,University of Mississippi Medical Center2,0,104,61,43
+MISSOURI,Jefferson College,Jefferson College main,4692,8,8,0
+MISSOURI,Lincoln University,Lincoln University main,2738,16,14,2
+MISSOURI,Metropolitan Community College,Metropolitan Community College main,15790,36,28,8
+MISSOURI,Mineral Area College,Mineral Area College main,4173,3,3,0
+MISSOURI,Missouri Southern State University,Missouri Southern State University main,6231,8,7,1
+MISSOURI,Missouri Western State University,Missouri Western State University main,5363,9,8,1
+MISSOURI,Northwest Missouri State University,Northwest Missouri State University main,6530,13,10,3
+MISSOURI,Southeast Missouri State University,Southeast Missouri State University main,11978,17,16,1
+MISSOURI,St. Charles Community College,St. Charles Community College main,6755,14,12,2
+MISSOURI,St. Louis Community College ,St. Louis Community College  Meramec,19052,30,24,6
+MISSOURI,Truman State University,Truman State University main,6379,10,8,2
+MISSOURI,University of Central Missouri,University of Central Missouri main,13988,33,19,14
+MISSOURI,University of Missouri: ,University of Missouri:  Columbia,33239,63,42,21
+MISSOURI,University of Missouri: ,University of Missouri:  Kansas City,16936,39,28,11
+MISSOURI,University of Missouri: ,University of Missouri:  St. Louis,16989,26,20,6
+MISSOURI,Washington University,Washington University main,15047,57,37,20
+MONTANA,Montana State University,Montana State University main,16359,35,18,17
+MONTANA,University of Montana,University of Montana main,12419,24,14,10
+NEBRASKA,University of Nebraska:,University of Nebraska: Kearney,6788,9,7,2
+NEBRASKA,University of Nebraska:,University of Nebraska: Lincoln,25897,60,32,28
+NEVADA,College of Southern Nevada,College of Southern Nevada main,33556,18,17,1
+NEVADA,University of Nevada:,University of Nevada: Las Vegas,29702,57,41,16
+NEVADA,University of Nevada:,University of Nevada: Reno,21353,40,31,9
+NEW HAMPSHIRE,University of New Hampshire,University of New Hampshire main,15188,35,19,16
+NEW JERSEY,Brookdale Community College,Brookdale Community College main,13165,12,12,0
+NEW JERSEY,Essex County College,Essex County College main,9596,56,11,45
+NEW JERSEY,Kean University,Kean University main,14070,38,19,19
+NEW JERSEY,Middlesex County College,Middlesex County College main,11371,17,12,5
+NEW JERSEY,Monmouth University,Monmouth University main,6371,49,19,30
+NEW JERSEY,Montclair State University,Montclair State University main,20987,47,33,14
+NEW JERSEY,New Jersey Institute of Technology,New Jersey Institute of Technology main,11317,68,33,35
+NEW JERSEY,Princeton University,Princeton University main,8181,102,33,69
+NEW JERSEY,Rowan University,Rowan University main,17372,89,31,58
+NEW JERSEY,Rutgers University: ,Rutgers University:  Camden,6475,82,19,63
+NEW JERSEY,Rutgers University: ,Rutgers University:  Newark,12321,190,63,127
+NEW JERSEY,Rutgers University: ,Rutgers University:  New Brunswick,50146,141,70,71
+NEW JERSEY,Stevens Institute of Technology,Stevens Institute of Technology main,6617,22,20,2
+NEW JERSEY,Stockton University,Stockton University main,8728,28,18,10
+NEW JERSEY,The College of New Jersey,The College of New Jersey main,7396,30,17,13
+NEW JERSEY,William Paterson University,William Paterson University main,10583,45,32,13
+NEW MEXICO,Eastern New Mexico University,Eastern New Mexico University main,6010,7,6,1
+NEW MEXICO,New Mexico Military Institute,New Mexico Military Institute main,422,5,5,0
+NEW MEXICO,New Mexico State University,New Mexico State University main,14852,32,17,15
+NEW MEXICO,University of New Mexico,University of New Mexico main,26999,55,38,17
+NEW YORK,Cornell University,Cornell University main,22319,72,46,26
+NEW YORK,Ithaca College,Ithaca College main,6678,41,23,18
+NEW YORK,State University of New York Police: ,State University of New York Police:  Albany,17373,59,37,22
+NEW YORK,State University of New York Police: ,State University of New York Police:  Alfred,3735,16,11,5
+NEW YORK,State University of New York Police: ,State University of New York Police:  Binghamton,17292,54,39,15
+NEW YORK,State University of New York Police: ,State University of New York Police:  Brockport,8243,18,16,2
+NEW YORK,State University of New York Police: ,State University of New York Police:  Buffalo,30184,70,57,13
+NEW YORK,State University of New York Police: ,State University of New York Police:  Buffalo State College,9475,36,32,4
+NEW YORK,State University of New York Police: ,State University of New York Police:  Canton,3205,11,10,1
+NEW YORK,State University of New York Police: ,State University of New York Police:  Cobleskill,2287,12,11,1
+NEW YORK,State University of New York Police: ,State University of New York Police:  Cortland,6900,24,18,6
+NEW YORK,State University of New York Police: ,State University of New York Police:  Delhi,3511,13,9,4
+NEW YORK,State University of New York Police: ,State University of New York Police:  Downstate Medical ,1839,110,26,84
+NEW YORK,State University of New York Police: ,State University of New York Police:  Environmental Science ,2186,13,9,4
+NEW YORK,State University of New York Police: ,State University of New York Police:  Farmingdale,9235,30,21,9
+NEW YORK,State University of New York Police: ,State University of New York Police:  Fredonia,4603,16,15,1
+NEW YORK,State University of New York Police: ,State University of New York Police:  Geneseo,5602,23,15,8
+NEW YORK,State University of New York Police: ,State University of New York Police:  Morrisville,3003,15,12,3
+NEW YORK,State University of New York Police: ,State University of New York Police:  New Paltz,7628,27,23,4
+NEW YORK,State University of New York Police: ,State University of New York Police:  Oneonta,6055,27,17,10
+NEW YORK,State University of New York Police: ,State University of New York Police:  Optometry,401,16,6,10
+NEW YORK,State University of New York Police: ,State University of New York Police:  Oswego,8004,25,22,3
+NEW YORK,State University of New York Police: ,State University of New York Police:  Plattsburgh,5520,22,18,4
+NEW YORK,State University of New York Police: ,State University of New York Police:  Polytechnic Institute,2697,16,11,5
+NEW YORK,State University of New York Police: ,State University of New York Police:  Potsdam,3696,14,12,2
+NEW YORK,State University of New York Police: ,State University of New York Police:  Stony Brook,25734,143,65,78
+NEW YORK,State University of New York Police: ,State University of New York Police:  Upstate Medical ,1491,112,20,92
+NORTH CAROLINA,Appalachian State University,Appalachian State University main,18295,44,27,17
+NORTH CAROLINA,Beaufort County Community College,Beaufort County Community College main,1522,2,2,0
+NORTH CAROLINA,Belmont Abbey College,Belmont Abbey College main,1523,2,2,0
+NORTH CAROLINA,Davidson College,Davidson College main,1796,10,9,1
+NORTH CAROLINA,Duke University,Duke University main,15735,157,64,93
+NORTH CAROLINA,East Carolina University,East Carolina University main,28962,71,55,16
+NORTH CAROLINA,Elizabeth City State University,Elizabeth City State University main,1357,21,11,10
+NORTH CAROLINA,Elon University,Elon University main,6739,39,19,20
+NORTH CAROLINA,Fayetteville State University,Fayetteville State University main,6223,36,19,17
+NORTH CAROLINA,Meredith College,Meredith College main,1981,13,3,10
+NORTH CAROLINA,Methodist University,Methodist University main,2446,25,10,15
+NORTH CAROLINA,North Carolina Agricultural and Technical State University,North Carolina Agricultural and Technical State University main,11177,52,21,31
+NORTH CAROLINA,North Carolina Central University,North Carolina Central University main,8094,53,25,28
+NORTH CAROLINA,North Carolina School of the Arts,North Carolina School of the Arts main,1040,22,15,7
+NORTH CAROLINA,North Carolina State University,North Carolina State University Raleigh,33755,63,47,16
+NORTH CAROLINA,Queens University,Queens University main,2330,13,9,4
+NORTH CAROLINA,Saint Augustine's University,Saint Augustine's University main,944,19,2,17
+NORTH CAROLINA,University of North Carolina:,University of North Carolina: Asheville,3821,21,14,7
+NORTH CAROLINA,University of North Carolina:,University of North Carolina: Chapel Hill,29468,109,56,53
+NORTH CAROLINA,University of North Carolina:,University of North Carolina: Charlotte,28721,55,45,10
+NORTH CAROLINA,University of North Carolina:,University of North Carolina: Greensboro,19647,54,31,23
+NORTH CAROLINA,University of North Carolina:,University of North Carolina: Pembroke,6268,26,18,8
+NORTH CAROLINA,University of North Carolina:,University of North Carolina: Wilmington,15740,45,30,15
+NORTH CAROLINA,Wake Forest University,Wake Forest University main,7968,48,22,26
+NORTH CAROLINA,Western Carolina University,Western Carolina University main,10805,24,23,1
+NORTH CAROLINA,Winston-Salem State University,Winston-Salem State University main,5151,22,16,6
+NORTH DAKOTA,Bismarck State College,Bismarck State College main,3976,2,2,0
+NORTH DAKOTA,North Dakota State College of Science,North Dakota State College of Science main,3003,4,3,1
+NORTH DAKOTA,North Dakota State University,North Dakota State University main,14432,24,15,9
+NORTH DAKOTA,University of North Dakota,University of North Dakota main,14648,17,16,1
+OHIO,Capital University,Capital University main,3367,16,10,6
+OHIO,Lakeland Community College,Lakeland Community College main,7997,15,11,4
+OHIO,Miami University,Miami University main,19697,37,28,9
+OHIO,Mount St. Joseph University,Mount St. Joseph University main,2045,7,5,2
+OHIO,Muskingum University,Muskingum University main,2121,5,5,0
+OHIO,Notre Dame College,Notre Dame College main,1985,9,8,1
+OHIO,Ohio State University,Ohio State University Columbus,59482,60,52,8
+OHIO,Ohio University,Ohio University main,29509,37,30,7
+OHIO,Otterbein University,Otterbein University main,2928,10,9,1
+OHIO,Sinclair Community College,Sinclair Community College main,18610,23,19,4
+OHIO,University of Akron,University of Akron main,21100,42,36,6
+OHIO,University of Toledo,University of Toledo main,20615,39,32,7
+OKLAHOMA,Cameron University,Cameron University main,4846,12,12,0
+OKLAHOMA,East Central University,East Central University main,4160,6,5,1
+OKLAHOMA,Eastern Oklahoma State College,Eastern Oklahoma State College main,1641,3,3,0
+OKLAHOMA,Langston University,Langston University main,2420,17,12,5
+OKLAHOMA,Mid-America Christian University,Mid-America Christian University main,2405,4,4,0
+OKLAHOMA,Northeastern Oklahoma A&M College,Northeastern Oklahoma A&M College main,2077,6,6,0
+OKLAHOMA,Northeastern State University,Northeastern State University Tahlequah,8109,19,15,4
+OKLAHOMA,Northwestern Oklahoma State University,Northwestern Oklahoma State University main,2218,4,4,0
+OKLAHOMA,Oklahoma City Community College,Oklahoma City Community College main,12557,33,21,12
+OKLAHOMA,Oklahoma City University,Oklahoma City University main,2968,12,8,4
+OKLAHOMA,Oklahoma State University:,Oklahoma State University: Main Campus,25622,43,33,10
+OKLAHOMA,Oklahoma State University:,Oklahoma State University: Okmulgee,2396,8,7,1
+OKLAHOMA,Oklahoma State University:,Oklahoma State University: Tulsa,926,8,6,2
+OKLAHOMA,Rogers State University,Rogers State University main,3903,9,9,0
+OKLAHOMA,Seminole State College,Seminole State College main,1729,2,2,0
+OKLAHOMA,Southeastern Oklahoma State University,Southeastern Oklahoma State University main,3725,4,3,1
+OKLAHOMA,Southwestern Oklahoma State University,Southwestern Oklahoma State University main,5320,7,6,1
+OKLAHOMA,Tulsa Community College,Tulsa Community College main,17135,33,27,6
+OKLAHOMA,University of Central Oklahoma,University of Central Oklahoma main,16428,22,15,7
+OKLAHOMA,University of Oklahoma: ,University of Oklahoma:  Health Sciences Center,3322,59,37,22
+OKLAHOMA,University of Oklahoma: ,University of Oklahoma:  Norman,27918,70,38,32
+OREGON,Portland State University,Portland State University main,26627,27,13,14
+OREGON,University of Oregon,University of Oregon main,23546,34,23,11
+PENNSYLVANIA,Bloomsburg University,Bloomsburg University main,9637,20,15,5
+PENNSYLVANIA,California University,California University main,7553,21,18,3
+PENNSYLVANIA,Cheyney University,Cheyney University main,746,10,7,3
+PENNSYLVANIA,Clarion University,Clarion University main,5224,14,9,5
+PENNSYLVANIA,Dickinson College,Dickinson College main,2420,20,14,6
+PENNSYLVANIA,East Stroudsburg University,East Stroudsburg University main,6822,15,10,5
+PENNSYLVANIA,Edinboro University,Edinboro University main,6181,15,14,1
+PENNSYLVANIA,Indiana University,Indiana University main,12971,26,21,5
+PENNSYLVANIA,Kutztown University,Kutztown University main,8513,19,16,3
+PENNSYLVANIA,Lehigh University,Lehigh University main,7059,36,26,10
+PENNSYLVANIA,Lock Haven University,Lock Haven University main,4220,15,12,3
+PENNSYLVANIA,Mansfield University,Mansfield University main,2180,11,8,3
+PENNSYLVANIA,Millersville University,Millersville University main,7914,16,14,2
+PENNSYLVANIA,Moravian College,Moravian College main,2426,17,14,3
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Abington,3951,8,3,5
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Altoona,3491,8,7,1
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Beaver,726,6,6,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Behrend,4566,11,7,4
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Berks,2888,8,7,1
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Brandywine,1379,3,3,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Fayette,643,2,2,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Greater Allegheny,550,5,5,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Harrisburg,5046,9,8,1
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Hazleton,863,5,5,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Mont Alto,903,5,5,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: New Kensington,686,1,1,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Schuylkill,759,4,4,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: University Park,47789,84,53,31
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Wilkes-Barre,487,1,1,0
+PENNSYLVANIA,Pennsylvania State University:,Pennsylvania State University: Worthington Scranton,1019,3,3,0
+PENNSYLVANIA,Shippensburg University,Shippensburg University main,6972,18,16,2
+PENNSYLVANIA,Slippery Rock University,Slippery Rock University main,8854,18,14,4
+PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Bradford,1465,8,6,2
+PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Greensburg,1520,9,8,1
+PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Johnstown,2769,13,12,1
+PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Pittsburgh,28664,155,89,66
+PENNSYLVANIA,University of Pittsburgh: ,University of Pittsburgh:  Titusville,332,7,6,1
+PENNSYLVANIA,West Chester University,West Chester University main,17005,46,25,21
+RHODE ISLAND,Brown University,Brown University main,9781,86,50,36
+RHODE ISLAND,University of Rhode Island,University of Rhode Island main,17822,35,31,4
+SOUTH CAROLINA,Benedict College,Benedict College main,2281,23,20,3
+SOUTH CAROLINA,Bob Jones University,Bob Jones University main,2901,3,3,0
+SOUTH CAROLINA,Clemson University,Clemson University main,23406,39,28,11
+SOUTH CAROLINA,Coastal Carolina University,Coastal Carolina University main,10479,89,35,54
+SOUTH CAROLINA,College of Charleston,College of Charleston main,11294,39,26,13
+SOUTH CAROLINA,Columbia College,Columbia College main,1588,8,6,2
+SOUTH CAROLINA,Francis Marion University,Francis Marion University main,3874,14,11,3
+SOUTH CAROLINA,Furman University,Furman University main,3003,19,11,8
+SOUTH CAROLINA,Greenville Technical College,Greenville Technical College main,11932,16,9,7
+SOUTH CAROLINA,Medical University of South Carolina,Medical University of South Carolina main,2986,77,58,19
+SOUTH CAROLINA,Midlands Technical College,Midlands Technical College main,10749,10,10,0
+SOUTH CAROLINA,Presbyterian College,Presbyterian College main,1352,8,7,1
+SOUTH CAROLINA,South Carolina State University,South Carolina State University main,2905,27,11,16
+SOUTH CAROLINA,Spartanburg Methodist College,Spartanburg Methodist College main,737,4,4,0
+SOUTH CAROLINA,The Citadel,The Citadel main,3602,19,16,3
+SOUTH CAROLINA,Tri-County Technical College,Tri-County Technical College main,6094,15,11,4
+SOUTH CAROLINA,Trident Technical College,Trident Technical College main,13561,28,23,5
+SOUTH CAROLINA,University of South Carolina:,University of South Carolina: Beaufort,2005,14,14,0
+SOUTH CAROLINA,University of South Carolina:,University of South Carolina: Upstate,5821,14,13,1
+SOUTH CAROLINA,Winthrop University,Winthrop University main,6109,20,14,6
+SOUTH DAKOTA,South Dakota State University,South Dakota State University main,12600,18,13,5
+TENNESSEE,Austin Peay State University,Austin Peay State University main,10344,27,17,10
+TENNESSEE,Chattanooga State Community College,Chattanooga State Community College main,8628,14,8,6
+TENNESSEE,Christian Brothers University,Christian Brothers University main,2138,20,9,11
+TENNESSEE,Cleveland State Community College,Cleveland State Community College main,3315,4,3,1
+TENNESSEE,Columbia State Community College,Columbia State Community College main,5645,5,1,4
+TENNESSEE,East Tennessee State University,East Tennessee State University main,14022,30,22,8
+TENNESSEE,Jackson State Community College,Jackson State Community College main,4689,5,4,1
+TENNESSEE,Lincoln Memorial University,Lincoln Memorial University main,4254,26,9,17
+TENNESSEE,Motlow State Community College,Motlow State Community College main,5838,2,2,0
+TENNESSEE,Northeast State Community College,Northeast State Community College main,6124,8,8,0
+TENNESSEE,Pellissippi State Community College,Pellissippi State Community College main,10244,14,11,3
+TENNESSEE,Roane State Community College,Roane State Community College main,5756,9,8,1
+TENNESSEE,Southwest Tennessee Community College,Southwest Tennessee Community College main,8327,22,18,4
+TENNESSEE,Tennessee State University,Tennessee State University main,8760,90,30,60
+TENNESSEE,Tennessee Technological University,Tennessee Technological University main,10493,22,13,9
+TENNESSEE,University of Memphis,University of Memphis main,21301,46,38,8
+TENNESSEE,University of Tennessee: ,University of Tennessee:  Chattanooga,11533,20,13,7
+TENNESSEE,University of Tennessee: ,University of Tennessee:  Health Science Center,3097,56,27,29
+TENNESSEE,University of Tennessee: ,University of Tennessee:  Knoxville,28052,90,51,39
+TENNESSEE,University of Tennessee: ,University of Tennessee:  Martin,6705,16,12,4
+TENNESSEE,University of the South,University of the South main,1815,15,11,4
+TENNESSEE,Vanderbilt University,Vanderbilt University main,12587,261,92,169
+TENNESSEE,Volunteer State Community College,Volunteer State Community College main,8684,12,9,3
+TENNESSEE,Walters State Community College,Walters State Community College main,5951,12,10,2
+TEXAS,Abilene Christian University,Abilene Christian University main,4910,15,14,1
+TEXAS,Alamo Colleges District,Alamo Colleges District main,56533,90,73,17
+TEXAS,Alvin Community College,Alvin Community College main,5677,10,9,1
+TEXAS,Amarillo College,Amarillo College main,10195,12,11,1
+TEXAS,Angelo State University,Angelo State University main,9581,16,12,4
+TEXAS,Austin College,Austin College main,1278,8,7,1
+TEXAS,Baylor Health Care System2,Baylor Health Care System2 main,0,164,57,107
+TEXAS,Central Texas College,Central Texas College main,18117,7,6,1
+TEXAS,College of the Mainland,College of the Mainland main,3995,9,8,1
+TEXAS,El Paso Community College,El Paso Community College main,29460,49,40,9
+TEXAS,Houston Community College,Houston Community College main,57032,109,72,37
+TEXAS,Laredo Community College,Laredo Community College main,9176,24,22,2
+TEXAS,Paris Junior College,Paris Junior College main,4806,5,5,0
+TEXAS,Prairie View A&M University,Prairie View A&M University main,8782,19,15,4
+TEXAS,Rice University,Rice University main,6855,45,29,16
+TEXAS,Southern Methodist University,Southern Methodist University main,11739,36,29,7
+TEXAS,Stephen F. Austin State University,Stephen F. Austin State University main,12742,51,27,24
+TEXAS,St. Thomas University,St. Thomas University main,3247,16,8,8
+TEXAS,Texas A&M International University,Texas A&M International University main,7390,29,20,9
+TEXAS,Texas A&M University,Texas A&M University College Station,65632,135,68,67
+TEXAS,Texas Christian University,Texas Christian University main,10394,56,32,24
+TEXAS,Texas Southern University,Texas Southern University main,8862,78,28,50
+TEXAS,Texas State Technical College: ,Texas State Technical College:  Harlingen2,0,13,10,3
+TEXAS,Texas State Technical College: ,Texas State Technical College:  West Texas2,0,6,6,0
+TEXAS,Texas Woman's University,Texas Woman's University main,15655,43,19,24
+TEXAS,University of Houston,University of Houston Downtown Campus,14251,49,24,25
+TEXAS,University of North Texas,University of North Texas Denton,38145,59,39,20
+TEXAS,University of Texas:,University of Texas: Arlington,45282,109,43,66
+TEXAS,University of Texas:,University of Texas: Dallas,26793,74,29,45
+TEXAS,University of Texas:,University of Texas: El Paso,23922,54,26,28
+TEXAS,University of Texas:,"University of Texas: Health Science Center, Tyler",12,27,8,19
+TEXAS,University of Texas:,University of Texas: Permian Basin,6673,25,14,11
+TEXAS,University of Texas:,University of Texas: Rio Grande Valley,27560,76,36,40
+TEXAS,University of Texas:,University of Texas: Southwestern Medical School,2316,135,44,91
+TEXAS,University of Texas:,University of Texas: Tyler,9835,30,12,18
+TEXAS,West Texas A&M University,West Texas A&M University main,9901,24,16,8
+UTAH,Brigham Young University,Brigham Young University main,34240,43,30,13
+UTAH,Southern Utah University,Southern Utah University main,9299,6,5,1
+UTAH,University of Utah,University of Utah main,31860,115,35,80
+UTAH,Utah State University:,Utah State University: Eastern2,0,2,2,0
+UTAH,Utah State University:,Utah State University: Logan,28118,17,10,7
+UTAH,Utah Valley University,Utah Valley University main,34978,14,11,3
+UTAH,Weber State University,Weber State University main,26809,13,11,2
+VERMONT,University of Vermont,University of Vermont main,13105,35,23,12
+VIRGINIA,Bridgewater College,Bridgewater College main,1882,13,7,6
+VIRGINIA,Christopher Newport University,Christopher Newport University main,5042,28,20,8
+VIRGINIA,College of William and Mary,College of William and Mary  ,8617,28,20,8
+VIRGINIA,Eastern Virginia Medical School,Eastern Virginia Medical School main,1130,49,21,28
+VIRGINIA,Emory and Henry College,Emory and Henry College main,1167,3,3,0
+VIRGINIA,Ferrum College,Ferrum College main,1294,9,9,0
+VIRGINIA,George Mason University,George Mason University main,34909,56,41,15
+VIRGINIA,Germanna Community College,Germanna Community College main,6701,7,3,4
+VIRGINIA,Hampton University,Hampton University main,4646,52,30,22
+VIRGINIA,James Madison University,James Madison University main,21270,39,32,7
+VIRGINIA,J. Sargeant Reynolds Community College,J. Sargeant Reynolds Community College main,10375,18,13,5
+VIRGINIA,Longwood University,Longwood University main,4884,27,17,10
+VIRGINIA,Lord Fairfax Community College,Lord Fairfax Community College main,6868,4,4,0
+VIRGINIA,Norfolk State University,Norfolk State University main,5421,38,24,14
+VIRGINIA,Northern Virginia Community College,Northern Virginia Community College main,50835,55,43,12
+VIRGINIA,Old Dominion University,Old Dominion University main,24322,56,42,14
+VIRGINIA,Radford University,Radford University main,9401,30,22,8
+VIRGINIA,Richard Bland College,Richard Bland College main,2409,5,4,1
+VIRGINIA,Thomas Nelson Community College,Thomas Nelson Community College main,8897,12,9,3
+VIRGINIA,University of Mary Washington,University of Mary Washington main,4726,24,18,6
+VIRGINIA,University of Richmond,University of Richmond main,4131,35,22,13
+VIRGINIA,University of Virginia,University of Virginia main,23898,116,48,68
+VIRGINIA,University of Virginia's College at Wise,University of Virginia's College at Wise main,2212,10,9,1
+VIRGINIA,Virginia Commonwealth University,Virginia Commonwealth University main,30872,118,90,28
+VIRGINIA,Virginia Military Institute,Virginia Military Institute main,1713,10,9,1
+VIRGINIA,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University main,33170,65,46,19
+VIRGINIA,Virginia State University,Virginia State University main,4584,31,16,15
+VIRGINIA,Virginia Western Community College,Virginia Western Community College main,7719,9,9,0
+WASHINGTON,Central Washington University,Central Washington University main,11971,16,14,2
+WASHINGTON,Eastern Washington University,Eastern Washington University main,12279,17,16,1
+WASHINGTON,Evergreen State College,Evergreen State College main,4089,13,8,5
+WASHINGTON,University of Washington,University of Washington main,45591,84,47,37
+WASHINGTON,Washington State University: ,Washington State University:  Pullman,30142,26,21,5
+WASHINGTON,Washington State University: ,Washington State University:  Vancouver2,0,6,3,3
+WASHINGTON,Western Washington University,Western Washington University main,15574,22,14,8
+WEST VIRGINIA,Bluefield State College,Bluefield State College main,1362,2,2,0
+WEST VIRGINIA,Concord University,Concord University main,2451,9,6,3
+WEST VIRGINIA,Fairmont State University,Fairmont State University main,4049,12,9,3
+WEST VIRGINIA,Glenville State College,Glenville State College main,1641,3,3,0
+WEST VIRGINIA,Marshall University,Marshall University main,13647,21,20,1
+WEST VIRGINIA,Potomac State College,Potomac State College main,1452,7,6,1
+WEST VIRGINIA,Shepherd University,Shepherd University main,3779,12,10,2
+WEST VIRGINIA,West Liberty University,West Liberty University main,2317,6,6,0
+WEST VIRGINIA,West Virginia State University,West Virginia State University main,3514,9,7,2
+WEST VIRGINIA,West Virginia Tech,West Virginia Tech main,1347,7,7,0
+WEST VIRGINIA,West Virginia University,West Virginia University main,28488,71,54,17
+WISCONSIN,Marquette University,Marquette University main,11294,66,43,23
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Eau Claire,10747,11,11,0
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Green Bay,7029,12,11,1
+WISCONSIN,University of Wisconsin:,University of Wisconsin: La Crosse,10637,19,12,7
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Madison,42582,128,59,69
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Milwaukee,25601,48,36,12
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Oshkosh,13958,16,13,3
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Parkside,4371,12,8,4
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Platteville,8779,10,8,2
+WISCONSIN,University of Wisconsin:,University of Wisconsin: River Falls,5938,7,7,0
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Stevens Point,8627,9,6,3
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Stout,9633,11,9,2
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Superior,2489,7,2,5
+WISCONSIN,University of Wisconsin:,University of Wisconsin: Whitewater,12657,17,15,2
+WYOMING,University of Wyoming,University of Wyoming main,12366,26,15,11
